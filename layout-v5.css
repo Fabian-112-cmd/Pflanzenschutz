@@ -1,0 +1,24 @@
+/* Fluid layout on every display, without the former 1500px home limit. */
+html{min-height:100%}body{min-height:100dvh;display:flex;flex-direction:column}
+body .top,body main,body footer,body[data-view=home] .top,body[data-view=home] main{width:calc(100% - clamp(24px,4vw,72px));max-width:none!important}
+body .top,body[data-view=home] .top{margin:clamp(18px,3vh,42px) auto 20px}
+body main{flex:1;min-height:0;margin:0 auto}
+body footer{margin:18px auto 20px}
+body[data-view=home] main{display:flex;flex-direction:column;gap:clamp(12px,1.5vh,22px)}
+body[data-view=home] main>.intro{margin:0;padding:clamp(20px,3vh,40px) clamp(18px,2vw,36px)}
+body[data-view=home] .intro h1{font-size:clamp(30px,3.4vw,64px)}
+body[data-view=home] .modes{flex:1;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(14px,1.8vw,30px);margin:0;min-width:0}
+body[data-view=home] .mode-card{min-height:clamp(160px,22vh,300px);display:flex;flex-direction:column;justify-content:center;padding:clamp(20px,2.5vw,44px)}
+body[data-view=home] .mode-card h2{font-size:clamp(30px,3vw,54px)}
+body[data-view=home] .mode-card .badge{align-self:flex-start}
+body[data-view=home] .products-entry{min-height:clamp(155px,20vh,260px);padding:clamp(22px,2.5vw,44px);margin:0}
+body[data-view=home] .home-links,body[data-view=home] .summary-line{margin:0}
+body[data-view=home] .home-data{margin:0;align-self:flex-start}
+@media(max-width:900px){body .top,body main,body footer,body[data-view=home] .top,body[data-view=home] main{width:calc(100% - 32px)}body[data-view=home] .mode-card{min-height:180px}}
+@media(max-width:600px){body .top,body main,body footer,body[data-view=home] .top,body[data-view=home] main{width:calc(100% - 24px)}body[data-view=home] .modes{grid-template-columns:1fr;flex:0}body[data-view=home] .mode-card{min-height:150px;padding:20px}body[data-view=home] .products-entry{min-height:160px;padding:20px}body[data-view=home] .intro h1{font-size:32px}body .top,body[data-view=home] .top{margin-top:18px}}
+@media print{body{display:block}body main{width:100%!important;max-width:none}body[data-view=home] .modes{display:block}}
+/* Kopfzeile wie in der Haupt-App: helle Mitte, transparente Ränder. */
+body .top,body[data-view=home] .top{background:linear-gradient(90deg,#fcfaec00 0%,#fcfaecb8 18%,#fcfaece8 43%,#fcfaecb8 68%,#fcfaec00 90%);border:0;border-radius:0;box-shadow:none;backdrop-filter:none}
+.winery-brand{max-width:1000px;grid-template-columns:100px minmax(0,1fr) 100px;gap:24px}.winery-mark img{width:100px;height:77px}.winery-title strong{font:700 clamp(22px,2vw,36px)/1.2 Georgia,serif}.winery-title small{font:11px Georgia,serif;letter-spacing:2.5px;text-transform:uppercase;margin-top:12px}.winery-title::after{content:'';display:block;width:35%;height:1px;background:#6e2d3b;margin:12px auto 0}
+@media(max-width:1050px){.winery-brand{grid-template-columns:75px minmax(0,1fr) 75px;gap:12px}.winery-mark img{width:75px;height:65px}.winery-title strong{font-size:23px}}
+@media(max-width:600px){.winery-brand{grid-template-columns:42px minmax(0,1fr) 42px;gap:5px}.winery-mark img{width:42px;height:43px}.winery-title strong{font-size:17px}.winery-title small{font-size:9px;letter-spacing:1px;margin-top:7px}.winery-title::after{margin-top:8px}}
