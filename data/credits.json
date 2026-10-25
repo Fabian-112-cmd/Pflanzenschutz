@@ -1,0 +1,1165 @@
+{
+  "schemaVersion": 1,
+  "permissionChecked": "2026-10-25",
+  "images": [
+    {
+      "src": "assets/photos/peronospora-1.jpg",
+      "caption": "Falscher Mehltau - Plasmopara viticola - Blatt-Ölflecke",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Plasmopara",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/plasmopara-viticola/plasmopara-viticola-01.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/peronospora-10.jpg",
+      "caption": "Falscher Mehltau - P. viticola - Sporulation am Blatt",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Plasmopara",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/plasmopara-viticola/plasmopara-viticola-10.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/peronospora-18.jpg",
+      "caption": "Falscher Mehltau - P. viticola - Geschein-Sporulation",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Plasmopara",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/plasmopara-viticola/plasmopara-viticola-18.jpg",
+      "organs": [
+        "Geschein",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/peronospora-28.jpg",
+      "caption": "Falscher Mehltau - P. viticola - Traube-Lederbeeren",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Plasmopara",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/plasmopara-viticola/plasmopara-viticola-28.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/peronospora-31.jpg",
+      "caption": "Falscher Mehltau - Plasmopara viticola - Triebbefall",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Plasmopara",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/plasmopara-viticola/plasmopara-viticola-31.jpg",
+      "organs": [
+        "Trieb"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/oidium-1.jpg",
+      "caption": "Echter Mehltau - Erysiphe necator - Blatt-Frühbefall",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Erysiphe",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/erysiphe-necator/erysiphe-necator-01.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/oidium-9.jpg",
+      "caption": "Echter Mehltau - Erysiphe necator - Zeigertrieb",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Erysiphe",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/erysiphe-necator/erysiphe-necator-09.jpg",
+      "organs": [
+        "Trieb",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/oidium-16.jpg",
+      "caption": "Echter Mehltau - Erysiphe necator - Traube",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Erysiphe",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/erysiphe-necator/erysiphe-necator-16.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/oidium-25.jpg",
+      "caption": "Echter Mehltau - Erysiphe necator - Traube-Samenbruch",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Erysiphe",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/erysiphe-necator/erysiphe-necator-25.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/oidium-28.jpg",
+      "caption": "Echter Mehltau - Erysiphe necator - Trieb-Oidiumfiguren",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Erysiphe",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/erysiphe-necator/erysiphe-necator-28.jpg",
+      "organs": [
+        "Trieb"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/botrytis-1.jpg",
+      "caption": "Traubenbotrytis - Botrytis cinerea",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Botrytis",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/botrytis-cinerea/botrytis-cinerea-01.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/botrytis-2.jpg",
+      "caption": "Traubenbotrytis - Botrytis cinerea",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Botrytis",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/botrytis-cinerea/botrytis-cinerea-02.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/botrytis-3.jpg",
+      "caption": "Traubenbotrytis - Botrytis cinerea",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Botrytis",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/botrytis-cinerea/botrytis-cinerea-03.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/botrytis-5.jpg",
+      "caption": "Traubenbotrytis - Botrytis cinerea",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Botrytis",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/botrytis-cinerea/botrytis-cinerea-05.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/botrytis-7.jpg",
+      "caption": "Traubenbotrytis - Botrytis cinerea",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Botrytis",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/botrytis-cinerea/botrytis-cinerea-07.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/schwarzfaeule-1.jpg",
+      "caption": "Schwarzfäule - G. bidwellii - Blatt-Anfangssymptome",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Guignardia",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/guignardia-bidwellii/guignardia-bidwellii-01.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/schwarzfaeule-2.jpg",
+      "caption": "Schwarzfäule - G. bidwellii - Blattinfektion",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Guignardia",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/guignardia-bidwellii/guignardia-bidwellii-02.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/schwarzfaeule-4.jpg",
+      "caption": "Schwarzfäule - G. bidwellii - Blatt-Anfangssymptome",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Guignardia",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/guignardia-bidwellii/guignardia-bidwellii-04.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/schwarzfaeule-5.jpg",
+      "caption": "Schwarzfäule - G. bidwellii - Blatt-Anfangssymptome",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Guignardia",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/guignardia-bidwellii/guignardia-bidwellii-05.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/schwarzfaeule-6.jpg",
+      "caption": "Schwarzfäule - G. bidwellii - Blatt-junge Nekrosen",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Guignardia",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/guignardia-bidwellii/guignardia-bidwellii-06.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/roter-brenner-1.jpg",
+      "caption": "Roter Brenner - Pseudopezicula tracheiphila - Blatt",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Pseudopezicula",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/pseudopezicula-tracheiphila/pseudopezicula-tracheiphila-01.jpg",
+      "organs": [
+        "Blatt",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/roter-brenner-2.jpg",
+      "caption": "Roter Brenner - Pseudopezicula tracheiphila - Blatt",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Pseudopezicula",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/pseudopezicula-tracheiphila/pseudopezicula-tracheiphila-02.jpg",
+      "organs": [
+        "Blatt",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/roter-brenner-4.jpg",
+      "caption": "Roter Brenner - Pseudopezicula tracheiphila - Traube",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Pseudopezicula",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/pseudopezicula-tracheiphila/pseudopezicula-tracheiphila-04.jpg",
+      "organs": [
+        "Traube",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/roter-brenner-5.jpg",
+      "caption": "Roter Brenner - Pseudopezicula tracheiphila - Stielgerüst",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Pseudopezicula",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/pseudopezicula-tracheiphila/pseudopezicula-tracheiphila-05.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/esca-1.jpg",
+      "caption": "Esca - Blattsymptom",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Esca",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/esca/esca-01.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/esca-2.jpg",
+      "caption": "Esca - Befall an Trauben",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Esca",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/esca/esca-02.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/esca-5.jpg",
+      "caption": "Esca - Blatt-Symptome an Riesling",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Esca",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/esca/esca-05.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/esca-10.jpg",
+      "caption": "Esca - Symptome an Riesling - apoplektischer Verlauf",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Esca",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/esca/esca-10.jpg",
+      "organs": [
+        "Blatt",
+        "Traube",
+        "Holz"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/esca-13.jpg",
+      "caption": "Esca-Holz - Fomitiporia mediterranea - Fruchtkörper",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Esca",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/esca/esca-13.jpg",
+      "organs": [
+        "Holz"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/phomopsis-1.jpg",
+      "caption": "Phomopsis viticola - Blattnekrosen",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Phomopsis",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/phomopsis-viticola/phomopsis-viticola-01.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/phomopsis-2.jpg",
+      "caption": "Phomopsis viticola - Blattnekrosen",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Phomopsis",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/phomopsis-viticola/phomopsis-viticola-02.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/phomopsis-4.jpg",
+      "caption": "Phomopsis viticola - schiffchenförmige Triebnekrosen",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Phomopsis",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/phomopsis-viticola/phomopsis-viticola-04.jpg",
+      "organs": [
+        "Trieb"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/phomopsis-5.jpg",
+      "caption": "Phomopsis viticola - schiffchenförmige Triebnekrosen",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Phomopsis",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/phomopsis-viticola/phomopsis-viticola-05.jpg",
+      "organs": [
+        "Trieb"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/traubenwickler-4.jpg",
+      "caption": "Traubenwickler - Eupoecilia ambiguella - L4",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eupoecilia",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eupoecilia-lobesia/eupoecilia-lobesia-04.jpg",
+      "organs": [
+        "Traube",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/traubenwickler-7.jpg",
+      "caption": "Traubenwickler - Eupoecilia ambiguella - Imago",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eupoecilia",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eupoecilia-lobesia/eupoecilia-lobesia-07.jpg",
+      "organs": [
+        "Traube",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/traubenwickler-8.jpg",
+      "caption": "Traubenwickler - Lobesia botrana - Imago",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eupoecilia",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eupoecilia-lobesia/eupoecilia-lobesia-08.jpg",
+      "organs": [
+        "Traube",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/traubenwickler-9.jpg",
+      "caption": "Traubenwickler-Schadbild Heuwurm",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eupoecilia",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eupoecilia-lobesia/eupoecilia-lobesia-09.jpg",
+      "organs": [
+        "Traube",
+        "Geschein"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/traubenwickler-11.jpg",
+      "caption": "Traubenwickler-Schadbild Sauerwurm",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eupoecilia",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eupoecilia-lobesia/eupoecilia-lobesia-11.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/rebzikaden-3.jpg",
+      "caption": "Grüne Rebzikade - Empoasca vitis - Larve 1",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Empoasca",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/empoasca-vitis/empoasca-vitis-03.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/rebzikaden-8.jpg",
+      "caption": "Grüne Rebzikade - Empoasca vitis - Imago",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Empoasca",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/empoasca-vitis/empoasca-vitis-08.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/rebzikaden-13.jpg",
+      "caption": "Grüne Rebzikade - Empoasca vitis - Blattunterseite",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Empoasca",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/empoasca-vitis/empoasca-vitis-13.jpg",
+      "organs": [
+        "Blatt",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/rebzikaden-17.jpg",
+      "caption": "Grüne Rebzikade - Empoasca vitis",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Empoasca",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/empoasca-vitis/empoasca-vitis-17.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/rebzikaden-18.jpg",
+      "caption": "Grüne Rebzikade - Empoasca vitis",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Empoasca",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/empoasca-vitis/empoasca-vitis-18.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/kirschessigfliege-1.jpg",
+      "caption": "D. suzukii - Männchen mit schwarzen Flügelpunkten",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Drosophila",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/drosophila-suzukii/drosophila-suzukii-01.jpg",
+      "organs": [
+        "Traube",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/kirschessigfliege-2.jpg",
+      "caption": "Drosophila suzukii - Weibchen",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Drosophila",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/drosophila-suzukii/drosophila-suzukii-02.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/kirschessigfliege-8.jpg",
+      "caption": "Drosophila suzukii - befallene Beere",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Drosophila",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/drosophila-suzukii/drosophila-suzukii-08.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/kirschessigfliege-9.jpg",
+      "caption": "Drosophila suzukii - befallene Beeren",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Drosophila",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/drosophila-suzukii/drosophila-suzukii-09.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/kirschessigfliege-12.jpg",
+      "caption": "Drosophila suzukii - Eier mit Eifäden",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Drosophila",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/drosophila-suzukii/drosophila-suzukii-12.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/reblaus-1.jpg",
+      "caption": "Reblaus - Grape Phylloxera - Blattgalle - Blattoberseite",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Daktulosphaira",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/daktulosphaira-vitifoliae/daktulosphaira-vitifoliae-01.jpg",
+      "organs": [
+        "Blatt",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/reblaus-3.jpg",
+      "caption": "Reblaus - Grape Phylloxera - Blattgalle - Blattunterseite",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Daktulosphaira",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/daktulosphaira-vitifoliae/daktulosphaira-vitifoliae-03.jpg",
+      "organs": [
+        "Blatt",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/reblaus-7.jpg",
+      "caption": "Reblaus - Grape Phylloxera - Blattgalle - Eigelege",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Daktulosphaira",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/daktulosphaira-vitifoliae/daktulosphaira-vitifoliae-07.jpg",
+      "organs": [
+        "Blatt",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/reblaus-13.jpg",
+      "caption": "Reblaus - Grape Phylloxera - Mailaus",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Daktulosphaira",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/daktulosphaira-vitifoliae/daktulosphaira-vitifoliae-13.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/reblaus-16.jpg",
+      "caption": "Reblaus - Grape Phylloxera - geflügelte Reblaus",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Daktulosphaira",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/daktulosphaira-vitifoliae/daktulosphaira-vitifoliae-16.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/spinnmilben-1.jpg",
+      "caption": "Obstbaumspinnmilbe - Panonychus ulmi - Wintereier",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Panonychus",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/panonychus-ulmi/panonychus-ulmi-01.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/spinnmilben-2.jpg",
+      "caption": "Obstbaumspinnmilbe - Panonychus ulmi - Wintereier",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Panonychus",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/panonychus-ulmi/panonychus-ulmi-02.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/spinnmilben-3.jpg",
+      "caption": "Obstbaumspinnmilbe - Panonychus ulmi - Wintereier",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Panonychus",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/panonychus-ulmi/panonychus-ulmi-03.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/spinnmilben-4.jpg",
+      "caption": "Obstbaumspinnmilbe - Panonychus ulmi - Wintereier",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Panonychus",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/panonychus-ulmi/panonychus-ulmi-04.jpg",
+      "organs": [
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/sonnenbrand-28.jpg",
+      "caption": "Sonnenbrand-Hitzeschaden",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-28.jpg",
+      "organs": [
+        "Traube",
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/sonnenbrand-29.jpg",
+      "caption": "Sonnenbrand-Hitzeschaden",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-29.jpg",
+      "organs": [
+        "Traube",
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/sonnenbrand-31.jpg",
+      "caption": "Sonnenbrand-Hitzeschaden - ES 79",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-31.jpg",
+      "organs": [
+        "Traube",
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/sonnenbrand-35.jpg",
+      "caption": "Sonnenbrand-Hitzeschaden - ES 79",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-35.jpg",
+      "organs": [
+        "Traube",
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/frost-43.jpg",
+      "caption": "Spätfrostschaden",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-43.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Geschein"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/frost-44.jpg",
+      "caption": "Spätfrostschaden",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-44.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Geschein"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/frost-46.jpg",
+      "caption": "Spätfrostschaden",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-46.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Geschein"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/frost-51.jpg",
+      "caption": "Spätfrostschaden",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-51.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Geschein"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/hagel-1.jpg",
+      "caption": "Hagelschäden",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-01.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/hagel-3.jpg",
+      "caption": "Hagelschäden",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-03.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/hagel-8.jpg",
+      "caption": "Hagelschäden",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-08.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/hagel-15.jpg",
+      "caption": "Hagelschäden",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-15.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/schwarzholz-6.jpg",
+      "caption": "Schwarzholzkrankheit - weiße Rebsorte - Blattsymptom",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Bois",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/bois-noir/bois-noir-06.jpg",
+      "organs": [
+        "Blatt",
+        "Holz",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/schwarzholz-9.jpg",
+      "caption": "Schwarzholzkrankheit - rote Rebsorte - Blattsymptom",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Bois",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/bois-noir/bois-noir-09.jpg",
+      "organs": [
+        "Blatt",
+        "Holz",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/schwarzholz-12.jpg",
+      "caption": "Schwarzholzkrankheit - rote Rebsorte - Traubensymptom",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Bois",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/bois-noir/bois-noir-12.jpg",
+      "organs": [
+        "Traube",
+        "Holz",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/schwarzholz-1.jpg",
+      "caption": "Schwarzholzkrankheit - Glasflügelzikade - Imago",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Bois",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/bois-noir/bois-noir-01.jpg",
+      "organs": [
+        "Holz",
+        "Tier"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/eutypiose-1.jpg",
+      "caption": "Eutypa lata",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eutypa",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eutypa-lata/eutypa-lata-01.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Holz"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/eutypiose-2.jpg",
+      "caption": "Eutypa lata",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eutypa",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eutypa-lata/eutypa-lata-02.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Holz"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/eutypiose-3.jpg",
+      "caption": "Eutypa lata",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eutypa",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eutypa-lata/eutypa-lata-03.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Holz"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/eutypiose-4.jpg",
+      "caption": "Eutypa lata",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eutypa",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eutypa-lata/eutypa-lata-04.jpg",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Holz"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/mauke-1.jpg",
+      "caption": "Agrobacterium vitis",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Agrobacterium",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/agrobacterium-vitis/agrobacterium-vitis-01.jpg",
+      "organs": [
+        "Holz",
+        "Wurzel"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/mauke-2.jpg",
+      "caption": "Agrobacterium vitis",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Agrobacterium",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/agrobacterium-vitis/agrobacterium-vitis-02.jpg",
+      "organs": [
+        "Holz",
+        "Wurzel"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/mauke-3.jpg",
+      "caption": "Agrobacterium vitis",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Agrobacterium",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/agrobacterium-vitis/agrobacterium-vitis-03.jpg",
+      "organs": [
+        "Holz",
+        "Wurzel"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/gruenfaeule-1.jpg",
+      "caption": "Grünfäule - Penicillium expansum",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Penicillium",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/penicillium-expansum/penicillium-expansum-01.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/gruenfaeule-2.jpg",
+      "caption": "Grünfäule - Penicillium expansum",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Penicillium",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/penicillium-expansum/penicillium-expansum-02.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/gruenfaeule-3.jpg",
+      "caption": "Grünfäule - Penicillium expansum",
+      "credit": "Hochschule Geisenheim University",
+      "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+      "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+      "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Penicillium",
+      "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/penicillium-expansum/penicillium-expansum-03.jpg",
+      "organs": [
+        "Traube"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/pockenmilbe-1.jpg",
+      "caption": "Pockenmilbe · Blattpocken und Filz, Vergleichsaufnahme 1",
+      "credit": "Bj.schoenmakers",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Colomerus_vitis_(Eriophyes_vitis),_Arnhem,_the_Netherlands.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/Colomerus_vitis_%28Eriophyes_vitis%29%2C_Arnhem%2C_the_Netherlands.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    },
+    {
+      "src": "assets/photos/pockenmilbe-2.jpg",
+      "caption": "Pockenmilbe · Blattpocken und Filz, Vergleichsaufnahme 2",
+      "credit": "Bj.schoenmakers",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Colomerus_vitis_(Eriophyes_vitis),_Arnhem,_the_Netherlands_-_2.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Colomerus_vitis_%28Eriophyes_vitis%29%2C_Arnhem%2C_the_Netherlands_-_2.jpg",
+      "organs": [
+        "Blatt"
+      ],
+      "modified": true
+    }
+  ]
+}
