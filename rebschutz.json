@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-29T07:56:39.364912+00:00",
+  "coverage": "Öffentlich verfügbare DLR-/PS-Info-Meldungen und BVL-Fachmeldungen. Kein Zugriff auf kostenpflichtige Informationsdienste; keine Vollständigkeitsgarantie.",
+  "sources": [
+    {
+      "id": "dlr",
+      "name": "DLR Rheinland-Pfalz · Weinbau",
+      "home": "https://www.dlr-rheinpfalz.rlp.de/",
+      "checkedAt": "2026-10-29T07:56:39.364912+00:00",
+      "ok": true,
+      "lastSuccessAt": "2026-10-29T07:56:39.364912+00:00",
+      "error": null
+    },
+    {
+      "id": "dlr-bio",
+      "name": "DLR Rheinland-Pfalz · Ökoweinbau",
+      "home": "https://www.oekolandbau.rlp.de/",
+      "checkedAt": "2026-10-29T07:56:39.364912+00:00",
+      "ok": true,
+      "lastSuccessAt": "2026-10-29T07:56:39.364912+00:00",
+      "error": null
+    },
+    {
+      "id": "psinfo",
+      "name": "PS Info Weinbau · DLR Rheinpfalz",
+      "home": "https://weinbau.pflanzenschutz-information.de/",
+      "checkedAt": "2026-10-29T07:56:39.364912+00:00",
+      "ok": true,
+      "lastSuccessAt": "2026-10-29T07:56:39.364912+00:00",
+      "error": null
+    },
+    {
+      "id": "bvl",
+      "name": "BVL · Fachmeldungen",
+      "home": "https://www.bvl.bund.de/DE/Arbeitsbereiche/04_Pflanzenschutzmittel/psm_node.html",
+      "checkedAt": "2026-10-29T07:56:39.364912+00:00",
+      "ok": true,
+      "lastSuccessAt": "2026-10-29T07:56:39.364912+00:00",
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "d866e8f878f95e9fe47bc6ba",
+      "sourceId": "dlr",
+      "source": "DLR Rheinland-Pfalz · Weinbau",
+      "title": "2026-31 Rebschutz- und Weinbauinformationsdienst Pfalz 21.10.2026",
+      "publishedAt": "2026-10-21",
+      "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/EB865D599376DB81C12586C700399C1E/1B709C83FB84B8A2C1258E97002A004C",
+      "modes": [
+        "bio",
+        "konventionell"
+      ],
+      "category": "Rebschutz & Schadbilder",
+      "impact": "Die neue Fachmeldung mit Entwicklungsstand und Befall im eigenen Wingert abgleichen; konkrete Maßnahmen der Originalquelle entnehmen.",
+      "bioStatus": "BIO-Anwendbarkeit gesondert anhand der aktuellen Öko-Vorgaben prüfen.",
+      "modeNote": "Allgemeine Fachinformation; die Zuordnung ist keine Zulassungs- oder BIO-Freigabe.",
+      "firstSeenAt": "2026-10-29T07:50:32.910153+00:00"
+    },
+    {
+      "id": "272a80e3db20c5f0cfe2d831",
+      "sourceId": "dlr",
+      "source": "DLR Rheinland-Pfalz · Weinbau",
+      "title": "2026-30 Rebschutz- und Weinbauinformationsdienst Pfalz 07.10.2026",
+      "publishedAt": "2026-10-07",
+      "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/EB865D599376DB81C12586C700399C1E/23513810DC195BB8C1258E890041CD31",
+      "modes": [
+        "bio",
+        "konventionell"
+      ],
+      "category": "Rebschutz & Schadbilder",
+      "impact": "Die neue Fachmeldung mit Entwicklungsstand und Befall im eigenen Wingert abgleichen; konkrete Maßnahmen der Originalquelle entnehmen.",
+      "bioStatus": "BIO-Anwendbarkeit gesondert anhand der aktuellen Öko-Vorgaben prüfen.",
+      "modeNote": "Allgemeine Fachinformation; die Zuordnung ist keine Zulassungs- oder BIO-Freigabe.",
+      "firstSeenAt": "2026-10-29T07:50:32.910153+00:00"
+    },
+    {
+      "id": "e1b1b8fe994cbb7afdec9e10",
+      "sourceId": "psinfo",
+      "source": "PS Info Weinbau · DLR Rheinpfalz",
+      "title": "Neue Zulassungen, Erneute Zulassungen und Zulassungserweiterungen im BVL-Update vom 01.10.2026",
+      "publishedAt": "2026-10-06",
+      "url": "https://www.pflanzenschutz-information.de/ticker?nr=3274",
+      "modes": [
+        "bio",
+        "konventionell"
+      ],
+      "category": "Zulassung & Fristen",
+      "impact": "Vor dem nächsten Einsatz die betroffenen Weinbau-Anwendungen, Fristen und Auflagen in der Originalmeldung prüfen.",
+      "bioStatus": "BIO-Anwendbarkeit gesondert anhand der aktuellen Öko-Vorgaben prüfen.",
+      "modeNote": "Allgemeine Fachinformation; die Zuordnung ist keine Zulassungs- oder BIO-Freigabe.",
+      "firstSeenAt": "2026-10-29T07:50:32.910153+00:00"
+    },
+    {
+      "id": "1bd357614c3da3e4b0b2761c",
+      "sourceId": "psinfo",
+      "source": "PS Info Weinbau · DLR Rheinpfalz",
+      "title": "Neue Zulassungen, Erneute Zulassungen, Zulassungserweiterungen und Namensänderung im BVL-Update vom 02.09.2026",
+      "publishedAt": "2026-10-06",
+      "url": "https://www.pflanzenschutz-information.de/ticker?nr=3255",
+      "modes": [
+        "bio",
+        "konventionell"
+      ],
+      "category": "Zulassung & Fristen",
+      "impact": "Vor dem nächsten Einsatz die betroffenen Weinbau-Anwendungen, Fristen und Auflagen in der Originalmeldung prüfen.",
+      "bioStatus": "BIO-Anwendbarkeit gesondert anhand der aktuellen Öko-Vorgaben prüfen.",
+      "modeNote": "Allgemeine Fachinformation; die Zuordnung ist keine Zulassungs- oder BIO-Freigabe.",
+      "firstSeenAt": "2026-10-29T07:50:32.910153+00:00"
+    },
+    {
+      "id": "2657e23af9a8d67319a168ad",
+      "sourceId": "dlr",
+      "source": "DLR Rheinland-Pfalz · Weinbau",
+      "title": "2026-29-01 Rebschutz- und Weinbauinformationsdienst Pfalz 23.09.2026",
+      "publishedAt": "2026-09-23",
+      "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/EB865D599376DB81C12586C700399C1E/51972C0453384733C1258E810032D4CF",
+      "modes": [
+        "bio",
+        "konventionell"
+      ],
+      "category": "Rebschutz & Schadbilder",
+      "impact": "Die neue Fachmeldung mit Entwicklungsstand und Befall im eigenen Wingert abgleichen; konkrete Maßnahmen der Originalquelle entnehmen.",
+      "bioStatus": "BIO-Anwendbarkeit gesondert anhand der aktuellen Öko-Vorgaben prüfen.",
+      "modeNote": "Allgemeine Fachinformation; die Zuordnung ist keine Zulassungs- oder BIO-Freigabe.",
+      "firstSeenAt": "2026-10-29T07:50:32.910153+00:00"
+    },
+    {
+      "id": "7fe0d0d74d79180aa8a42d21",
+      "sourceId": "dlr",
+      "source": "DLR Rheinland-Pfalz · Weinbau",
+      "title": "2026-29 Rebschutz- und Weinbauinformationsdienst Pfalz 23.09.2026",
+      "publishedAt": "2026-09-23",
+      "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/EB865D599376DB81C12586C700399C1E/04D3941666B5FB16C1258E810032A77F",
+      "modes": [
+        "bio",
+        "konventionell"
+      ],
+      "category": "Rebschutz & Schadbilder",
+      "impact": "Die neue Fachmeldung mit Entwicklungsstand und Befall im eigenen Wingert abgleichen; konkrete Maßnahmen der Originalquelle entnehmen.",
+      "bioStatus": "BIO-Anwendbarkeit gesondert anhand der aktuellen Öko-Vorgaben prüfen.",
+      "modeNote": "Allgemeine Fachinformation; die Zuordnung ist keine Zulassungs- oder BIO-Freigabe.",
+      "firstSeenAt": "2026-10-29T07:50:32.910153+00:00"
+    },
+    {
+      "id": "69a72b1f3cce2b0fdf98bf05",
+      "sourceId": "psinfo",
+      "source": "PS Info Weinbau · DLR Rheinpfalz",
+      "title": "Neue Zulassungen, Zulassungserweiterungen und Namensänderung im BVL-Update vom 05.08.2026",
+      "publishedAt": "2026-09-04",
+      "url": "https://www.pflanzenschutz-information.de/ticker?nr=3232",
+      "modes": [
+        "bio",
+        "konventionell"
+      ],
+      "category": "Zulassung & Fristen",
+      "impact": "Vor dem nächsten Einsatz die betroffenen Weinbau-Anwendungen, Fristen und Auflagen in der Originalmeldung prüfen.",
+      "bioStatus": "BIO-Anwendbarkeit gesondert anhand der aktuellen Öko-Vorgaben prüfen.",
+      "modeNote": "Allgemeine Fachinformation; die Zuordnung ist keine Zulassungs- oder BIO-Freigabe.",
+      "firstSeenAt": "2026-10-29T07:50:32.910153+00:00"
+    },
+    {
+      "id": "d04f46610a4f3e2e71abda7c",
+      "sourceId": "psinfo",
+      "source": "PS Info Weinbau · DLR Rheinpfalz",
+      "title": "Neue Zulassungen, Erneute Zulassungen, Zulassungserweiterungen und Namensänderung im BVL-Update vom 16.07.2026",
+      "publishedAt": "2026-08-06",
+      "url": "https://www.pflanzenschutz-information.de/ticker?nr=3219",
+      "modes": [
+        "bio",
+        "konventionell"
+      ],
+      "category": "Zulassung & Fristen",
+      "impact": "Vor dem nächsten Einsatz die betroffenen Weinbau-Anwendungen, Fristen und Auflagen in der Originalmeldung prüfen.",
+      "bioStatus": "BIO-Anwendbarkeit gesondert anhand der aktuellen Öko-Vorgaben prüfen.",
+      "modeNote": "Allgemeine Fachinformation; die Zuordnung ist keine Zulassungs- oder BIO-Freigabe.",
+      "firstSeenAt": "2026-10-29T07:50:32.910153+00:00"
+    }
+  ]
+}
