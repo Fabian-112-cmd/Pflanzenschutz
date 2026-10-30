@@ -31,3 +31,8 @@ body[data-view="home"] .home-links .button{min-width:0;width:100%;flex-basis:100
 
 /* Zusatzfunktionen */
 .finder-jump{margin:12px 0}.favorite-toggle{border:1px solid #8b6c77;border-radius:9px;background:#fffaf1;color:#632339;padding:10px 13px;cursor:pointer;font:inherit}.favorite-toggle[aria-pressed="true"]{background:#f5e4e9}.fav-hint{margin:12px 0;display:flex;align-items:center;flex-wrap:wrap;gap:10px}.favorite-result{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:13px;border-bottom:1px solid #ddd;background:#fffcf4}.favorite-result a{color:#29452e;font-weight:600}
+
+/* 2026-10-30: kompakte Fachbildkarten und Symptom-Schnellzugriff */
+.symptom-quick{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:12px}.symptom-quick>span{font-size:.85rem;opacity:.8}.symptom-chip{border:1px solid #b6b9a6;border-radius:18px;background:#f7f5e9;color:#30452f;padding:7px 12px;cursor:pointer;font:inherit;font-size:.84rem}.symptom-chip:hover,.symptom-chip:focus-visible{background:#e6eddd;outline-offset:2px}
+.gallery .photo figcaption{font-size:.79rem;line-height:1.35;padding:9px 11px}.gallery .photo figcaption strong{display:block;font-size:.82rem;line-height:1.4;margin-bottom:4px}.gallery .photo figcaption .photo-credits{display:block;font-size:.71rem;opacity:.78;margin-top:5px}.gallery .photo figcaption a{overflow-wrap:anywhere}
+@media(max-width:650px){.symptom-quick{gap:6px}.symptom-chip{padding:6px 9px}}
