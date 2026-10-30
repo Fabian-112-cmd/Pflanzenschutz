@@ -1,0 +1,30 @@
+name: Rebschutz-Quellen aktualisieren
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 7 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: rebschutz-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Offizielle Quellen abrufen
+        run: python update_rebschutz.py
+      - name: JSON auf GitHub aktualisieren
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/rebschutz.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update official rebschutz feed'
+            git push
+          fi

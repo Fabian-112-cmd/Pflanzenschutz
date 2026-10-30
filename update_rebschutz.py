@@ -16,7 +16,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / 'data/rebschutz.json'
 SOURCES = [
  {'id': 'dlr', 'name': 'DLR Rheinland-Pfalz · Weinbau', 'kind': 'rss',

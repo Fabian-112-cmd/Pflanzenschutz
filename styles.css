@@ -40,3 +40,13 @@ body .top,body[data-view=home] .top{background:linear-gradient(90deg,#fcfaec00 0
 .winery-brand{max-width:1000px;grid-template-columns:100px minmax(0,1fr) 100px;gap:24px}.winery-mark img{width:100px;height:77px}.winery-title strong{font:700 clamp(22px,2vw,36px)/1.2 Georgia,serif}.winery-title small{font:11px Georgia,serif;letter-spacing:2.5px;text-transform:uppercase;margin-top:12px}.winery-title::after{content:'';display:block;width:35%;height:1px;background:#6e2d3b;margin:12px auto 0}
 @media(max-width:1050px){.winery-brand{grid-template-columns:75px minmax(0,1fr) 75px;gap:12px}.winery-mark img{width:75px;height:65px}.winery-title strong{font-size:23px}}
 @media(max-width:600px){.winery-brand{grid-template-columns:42px minmax(0,1fr) 42px;gap:5px}.winery-mark img{width:42px;height:43px}.winery-title strong{font-size:17px}.winery-title small{font-size:9px;letter-spacing:1px;margin-top:7px}.winery-title::after{margin-top:8px}}
+
+
+/* Einheitlicher Kopfbereich – identische Maße mit Organisation */
+.top{max-width:1480px;margin:8px auto 18px;min-height:96px;padding:12px 18px!important;border-radius:10px;border-bottom:0;background:linear-gradient(90deg,#fcfaec55,#fcfaece8 50%,#fcfaec55)}
+.winery-brand{max-width:1000px;grid-template-columns:100px minmax(0,1fr) 100px;gap:24px}
+.winery-mark img{width:100px;height:77px}
+.top-actions{min-height:46px;padding:7px 12px;border:1px solid #dfdbc7;border-radius:13px;background:#fcfaedf5;box-shadow:0 4px 14px #2b35151a}
+#menuButton{min-width:38px;width:38px;min-height:34px;padding:4px 7px}
+@media(max-width:1050px){.winery-brand{grid-template-columns:75px minmax(0,1fr) 75px;gap:12px}.winery-mark img{width:75px;height:65px}}
+@media(max-width:760px){.top{width:calc(100% - 24px);min-height:70px;margin:8px auto 14px;padding:9px 8px!important;gap:8px}.winery-brand{grid-template-columns:42px minmax(0,1fr) 42px;gap:5px}.winery-mark img{width:42px;height:43px}.winery-mark span{display:none}.winery-title strong{font-size:17px}.top-actions{min-height:40px;padding:4px 8px}#install{display:none!important}}
