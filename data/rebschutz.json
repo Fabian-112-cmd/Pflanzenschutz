@@ -1,20 +1,16 @@
-{
-  "schemaVersion": 1,
-  "generatedAt": "2026-10-30T14:30:00Z",
-  "coverage": "Die automatische Quellenprüfung ist noch nicht mit diesem GitHub-Datenfeed verbunden. Bis zur Einrichtung bitte die Originalquellen direkt prüfen. Keine Meldungen bedeutet ausdrücklich keine Entwarnung.",
-  "sources": [
-    {
-      "name": "DLR Rheinland-Pfalz / Rebschutz",
-      "ok": false,
-      "lastSuccessAt": null,
-      "home": "https://www.dlr.rlp.de/"
-    },
-    {
-      "name": "BVL Pflanzenschutzmittel",
-      "ok": false,
-      "lastSuccessAt": null,
-      "home": "https://www.bvl.bund.de/"
-    }
-  ],
-  "items": []
-}
+"sources": [
+  {
+    "id": "dlr",
+    "name": "DLR Rheinland-Pfalz / Rebschutz",
+    "ok": false,
+    "lastSuccessAt": null,
+    "home": "https://www.dlr.rlp.de/"
+  },
+  {
+    "id": "bvl",
+    "name": "BVL Pflanzenschutzmittel",
+    "ok": false,
+    "lastSuccessAt": null,
+    "home": "https://www.bvl.bund.de/"
+  }
+]
