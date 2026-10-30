@@ -28,3 +28,6 @@ body[data-view="home"] .mode-card .badge{font-size:10px}
 body[data-view="home"] .products-entry{padding:16px!important}
 body[data-view="home"] .home-links .button{min-width:0;width:100%;flex-basis:100%}
 }
+
+/* Zusatzfunktionen */
+.finder-jump{margin:12px 0}.favorite-toggle{border:1px solid #8b6c77;border-radius:9px;background:#fffaf1;color:#632339;padding:10px 13px;cursor:pointer;font:inherit}.favorite-toggle[aria-pressed="true"]{background:#f5e4e9}.fav-hint{margin:12px 0;display:flex;align-items:center;flex-wrap:wrap;gap:10px}.favorite-result{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:13px;border-bottom:1px solid #ddd;background:#fffcf4}.favorite-result a{color:#29452e;font-weight:600}
