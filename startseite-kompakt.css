@@ -1,0 +1,30 @@
+/* Kompakte Pflanzenschutz-Startseite */
+body[data-view="home"] main{gap:14px!important}
+body[data-view="home"] main>.intro{padding:20px 24px!important}
+body[data-view="home"] .intro h1{font-size:clamp(30px,2.8vw,45px)!important;margin-bottom:7px}
+body[data-view="home"] .intro p{margin-bottom:0;font-size:15px}
+body[data-view="home"] .modes{flex:none!important;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px!important}
+body[data-view="home"] .mode-card{min-height:0!important;height:auto!important;padding:22px 24px!important;justify-content:flex-start!important;gap:4px}
+body[data-view="home"] .mode-card .mode-symbol{width:39px!important;height:39px!important;margin:0 0 4px!important}
+body[data-view="home"] .mode-card h2{font-size:clamp(25px,2.1vw,34px)!important;margin:0!important}
+body[data-view="home"] .mode-card p{font-size:14px;margin:0 0 6px}
+body[data-view="home"] .mode-card .badge{margin:0!important}
+body[data-view="home"] .mode-card:after{right:18px;top:16px;font-size:20px}
+body[data-view="home"] .products-entry{min-height:0!important;padding:20px 24px!important;gap:16px}
+body[data-view="home"] .products-entry .entry-symbol{width:49px!important;height:65px!important}
+body[data-view="home"] .products-entry h2{font-size:clamp(22px,2vw,30px);margin-bottom:2px}
+body[data-view="home"] .products-entry p{margin-bottom:9px}
+body[data-view="home"] .home-links{display:flex;flex-wrap:wrap;gap:10px}
+body[data-view="home"] .home-links .button{flex:1;min-width:180px;justify-content:flex-start}
+body[data-view="home"] .summary-line{padding:8px 12px}
+@media(max-width:600px){
+body[data-view="home"] main>.intro{padding:18px!important}
+body[data-view="home"] .modes{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:9px!important}
+body[data-view="home"] .mode-card{padding:15px 12px!important}
+body[data-view="home"] .mode-card .mode-symbol{width:30px!important;height:30px!important}
+body[data-view="home"] .mode-card h2{font-size:22px!important;overflow-wrap:anywhere}
+body[data-view="home"] .mode-card p{font-size:12px}
+body[data-view="home"] .mode-card .badge{font-size:10px}
+body[data-view="home"] .products-entry{padding:16px!important}
+body[data-view="home"] .home-links .button{min-width:0;width:100%;flex-basis:100%}
+}
