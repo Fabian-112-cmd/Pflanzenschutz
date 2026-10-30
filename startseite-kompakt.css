@@ -49,3 +49,14 @@ body[data-view="home"] .home-links .button{min-width:0;width:100%;flex-basis:100
 .gallery .photo figcaption .photo-credits{display:block;font-size:.76rem;line-height:1.35;opacity:.84}
 .gallery .photo figcaption a{overflow-wrap:anywhere}
 @media(max-width:600px){.profile-quickcheck{padding:14px 15px}.gallery .photo figcaption{padding:8px 10px}}
+
+/* Mobile: Pflanzenschutzmittel ohne Text-/Icon-Überlagerung */
+@media (max-width:600px){
+ body[data-view="home"] .products-entry{display:grid!important;grid-template-columns:42px minmax(0,1fr);align-items:start!important;column-gap:12px!important;min-width:0;box-sizing:border-box}
+ body[data-view="home"] .products-entry .entry-symbol{width:42px!important;height:auto!important;grid-column:1;grid-row:1;align-self:start}
+ body[data-view="home"] .products-entry .entry-symbol svg{width:42px!important;height:55px!important;display:block}
+ body[data-view="home"] .products-entry>div{grid-column:2;grid-row:1;min-width:0}
+ body[data-view="home"] .products-entry h2{font-size:clamp(20px,5.5vw,26px)!important;line-height:1.13!important;overflow-wrap:anywhere;margin:0 0 5px!important}
+ body[data-view="home"] .products-entry p{font-size:14px!important;line-height:1.35!important;margin:0 0 12px!important}
+ body[data-view="home"] .products-entry .button{display:inline-flex;max-width:100%;box-sizing:border-box;white-space:normal;text-align:center;line-height:1.25;padding:10px 12px}
+}
