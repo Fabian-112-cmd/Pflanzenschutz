@@ -1,0 +1,2765 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-10-25",
+  "diseases": [
+    {
+      "id": "peronospora",
+      "name": "Peronospora · Falscher Mehltau",
+      "scientific": "Plasmopara viticola",
+      "category": "pilze",
+      "summary": "Ölflecken oben, weißer Pilzrasen auf der Blattunterseite.",
+      "organs": [
+        "Blatt",
+        "Traube",
+        "Trieb"
+      ],
+      "symptoms": [
+        "Gelbliche, durchscheinende Ölflecken; bei Feuchtigkeit weißer Belag darunter.",
+        "Gescheine können verbräunen; junge Beeren schrumpfen zu Lederbeeren."
+      ],
+      "cause": "Ein Eipilz infiziert grünes Gewebe; überwinternde Sporen im Falllaub ermöglichen die ersten Infektionen.",
+      "weather": "Nässe, Blattbenetzung und milde bis warme Temperaturen; neue Blätter bleiben gefährdet.",
+      "confusions": [
+        "Oidium: mehliger Belag ohne typische Ölflecken.",
+        "Pockenmilbe: Filz sitzt in blasenartigen Blattwölbungen."
+      ],
+      "prevention": [
+        "Luftige Laubwand, Boden- und Laubmanagement sowie regionales Infektionsmodell nutzen.",
+        "Nach Niederschlag und Zuwachs den Schutz neu beurteilen."
+      ],
+      "bio": "Vorbeugender Schutz durch dafür zugelassene Kupferpräparate; jährliche Kupferbilanz und Öko-Auflagen berücksichtigen.",
+      "conventional": "Zugelassene Kontakt- oder spezifische Peronospora-Mittel gezielt nach Warndienst einsetzen; Wirkmechanismen wechseln.",
+      "substances": [
+        "Kupferverbindungen",
+        "Mandipropamid",
+        "Oxathiapiprolin"
+      ],
+      "sources": [
+        {
+          "title": "BLE/JKI · Falscher Mehltau",
+          "url": "https://www.oekolandbau.de/bio-in-der-praxis/oekologische-landwirtschaft/oekologischer-pflanzenbau/oekologischer-pflanzenschutz/pflanzendoktor/schaderreger/schaderreger-im-obstbau-und-weinbau/falscher-mehltau-perenospora-plasmopara-viticola"
+        },
+        {
+          "title": "Geisenheim · Peronospora · Falscher Mehltau",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Plasmopara"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/peronospora-1.jpg",
+          "caption": "Falscher Mehltau - Plasmopara viticola - Blatt-Ölflecke",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Plasmopara",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/plasmopara-viticola/plasmopara-viticola-01.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/peronospora-10.jpg",
+          "caption": "Falscher Mehltau - P. viticola - Sporulation am Blatt",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Plasmopara",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/plasmopara-viticola/plasmopara-viticola-10.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/peronospora-18.jpg",
+          "caption": "Falscher Mehltau - P. viticola - Geschein-Sporulation",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Plasmopara",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/plasmopara-viticola/plasmopara-viticola-18.jpg",
+          "organs": [
+            "Geschein",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/peronospora-28.jpg",
+          "caption": "Falscher Mehltau - P. viticola - Traube-Lederbeeren",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Plasmopara",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/plasmopara-viticola/plasmopara-viticola-28.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/peronospora-31.jpg",
+          "caption": "Falscher Mehltau - Plasmopara viticola - Triebbefall",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Plasmopara",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/plasmopara-viticola/plasmopara-viticola-31.jpg",
+          "organs": [
+            "Trieb"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Kupferverbindungen"
+      ]
+    },
+    {
+      "id": "oidium",
+      "name": "Oidium · Echter Mehltau",
+      "scientific": "Erysiphe necator",
+      "category": "pilze",
+      "summary": "Mehliger Belag, später rissige Beeren mit Samenbruch.",
+      "organs": [
+        "Blatt",
+        "Traube",
+        "Trieb"
+      ],
+      "symptoms": [
+        "Weißgrauer, oberflächlicher Pilzbelag auf Blättern und Beeren.",
+        "Zeigertriebe im Frühjahr, später netzige Oidiumfiguren am Holz.",
+        "Befallene Beeren können aufplatzen und Kerne freilegen."
+      ],
+      "cause": "Der Pilz überdauert unter anderem in Knospen oder Fruchtkörpern; Sporen besiedeln grünes Gewebe.",
+      "weather": "Warme Bedingungen und ein feuchtes Laubwandklima; freies Wasser ist für die Konidieninfektion nicht erforderlich.",
+      "confusions": [
+        "Peronospora: Ölflecken und unterseitiger weißer Rasen.",
+        "Spritzbelag abwischen und mit frischem Befall vergleichen."
+      ],
+      "prevention": [
+        "Zeigertriebe kontrollieren und entfernen; gut belichtete, luftige Laubwand schaffen.",
+        "Empfindliche Zeit um die Blüte besonders beachten."
+      ],
+      "bio": "Zugelassene Schwefel- oder Kaliumhydrogencarbonatpräparate situationsgerecht prüfen; Hitzeschäden und Mischverträglichkeit beachten.",
+      "conventional": "Geeignete Oidiumfungizide nach Befallsrisiko wählen; Resistenzgruppen konsequent wechseln.",
+      "substances": [
+        "Schwefel",
+        "Kaliumhydrogencarbonat",
+        "Metrafenon",
+        "Mefentrifluconazol"
+      ],
+      "sources": [
+        {
+          "title": "BLE/JKI · Echter Mehltau",
+          "url": "https://www.oekolandbau.de/bio-in-der-praxis/oekologische-landwirtschaft/oekologischer-pflanzenbau/oekologischer-pflanzenschutz/pflanzendoktor/schaderreger/schaderreger-im-obstbau-und-weinbau/echter-mehltau-uncinula-necator-oidium-tuckeri-samenbruch-kernbruch/"
+        },
+        {
+          "title": "Geisenheim · Oidium · Echter Mehltau",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Erysiphe"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/oidium-1.jpg",
+          "caption": "Echter Mehltau - Erysiphe necator - Blatt-Frühbefall",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Erysiphe",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/erysiphe-necator/erysiphe-necator-01.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/oidium-9.jpg",
+          "caption": "Echter Mehltau - Erysiphe necator - Zeigertrieb",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Erysiphe",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/erysiphe-necator/erysiphe-necator-09.jpg",
+          "organs": [
+            "Trieb",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/oidium-16.jpg",
+          "caption": "Echter Mehltau - Erysiphe necator - Traube",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Erysiphe",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/erysiphe-necator/erysiphe-necator-16.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/oidium-25.jpg",
+          "caption": "Echter Mehltau - Erysiphe necator - Traube-Samenbruch",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Erysiphe",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/erysiphe-necator/erysiphe-necator-25.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/oidium-28.jpg",
+          "caption": "Echter Mehltau - Erysiphe necator - Trieb-Oidiumfiguren",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Erysiphe",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/erysiphe-necator/erysiphe-necator-28.jpg",
+          "organs": [
+            "Trieb"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Schwefel",
+        "Kaliumhydrogencarbonat"
+      ]
+    },
+    {
+      "id": "botrytis",
+      "name": "Botrytis · Grauschimmel",
+      "scientific": "Botrytis cinerea",
+      "category": "pilze",
+      "summary": "Grauer Schimmelrasen auf weichen oder verletzten Beeren.",
+      "organs": [
+        "Traube",
+        "Geschein",
+        "Trieb"
+      ],
+      "symptoms": [
+        "Beeren werden weich und braun; grauer, staubender Belag.",
+        "Gescheine können absterben; Verletzungen begünstigen die Fäule."
+      ],
+      "cause": "Ein verbreiteter Pilz besiedelt totes und geschädigtes Gewebe und kann Beeren infizieren.",
+      "weather": "Lange Feuchtephasen, dichte Trauben und schlecht abtrocknende Laubwände.",
+      "confusions": [
+        "Essigfäule: deutlicher Essiggeruch, häufig Fruchtfliegen.",
+        "Grünfäule: grünblauer statt grauer Sporenbelag."
+      ],
+      "prevention": [
+        "Traubenzone rechtzeitig luftig halten, Verletzungen und Traubenwicklerbefall begrenzen.",
+        "Übermäßigen Wuchs vermeiden; befallene Trauben bei der Lese aussortieren."
+      ],
+      "bio": "Vorbeugende Kulturmaßnahmen haben Vorrang; nur passende zugelassene biologische Präparate prüfen.",
+      "conventional": "Botrytizide gezielt und vorbeugend nach Risiko und Zulassung einsetzen; Resistenzmanagement beachten.",
+      "substances": [
+        "Aureobasidium pullulans",
+        "Bacillus amyloliquefaciens",
+        "Cyprodinil + Fludioxonil"
+      ],
+      "sources": [
+        {
+          "title": "Vitipendium · DLR-Autoren zu Botrytis",
+          "url": "https://www.vitipendium.de/Botrytis_cinerea"
+        },
+        {
+          "title": "Geisenheim · Botrytis · Grauschimmel",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Botrytis"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/botrytis-1.jpg",
+          "caption": "Traubenbotrytis - Botrytis cinerea",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Botrytis",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/botrytis-cinerea/botrytis-cinerea-01.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/botrytis-2.jpg",
+          "caption": "Traubenbotrytis - Botrytis cinerea",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Botrytis",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/botrytis-cinerea/botrytis-cinerea-02.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/botrytis-3.jpg",
+          "caption": "Traubenbotrytis - Botrytis cinerea",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Botrytis",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/botrytis-cinerea/botrytis-cinerea-03.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/botrytis-5.jpg",
+          "caption": "Traubenbotrytis - Botrytis cinerea",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Botrytis",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/botrytis-cinerea/botrytis-cinerea-05.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/botrytis-7.jpg",
+          "caption": "Traubenbotrytis - Botrytis cinerea",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Botrytis",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/botrytis-cinerea/botrytis-cinerea-07.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Aureobasidium pullulans",
+        "Bacillus amyloliquefaciens"
+      ]
+    },
+    {
+      "id": "schwarzfaeule",
+      "name": "Schwarzfäule",
+      "scientific": "Phyllosticta ampelicida (syn. Guignardia bidwellii)",
+      "category": "pilze",
+      "summary": "Helle Blattflecken mit schwarzen Punkten und harte Fruchtmumien.",
+      "organs": [
+        "Blatt",
+        "Traube",
+        "Trieb"
+      ],
+      "symptoms": [
+        "Rundliche, hellbraune Blattflecken mit dunklem Rand und schwarzen Fruchtkörpern.",
+        "Beeren verbräunen und schrumpfen zu festen, schwarzen Mumien."
+      ],
+      "cause": "Der Pilz überdauert besonders in Fruchtmumien; Sporen verbreiten sich bei Niederschlag.",
+      "weather": "Warme, feuchte Witterung mit ausreichender Blattnässedauer.",
+      "confusions": [
+        "Peronospora: Lederbeeren meist ohne typische schwarze Pyknidien.",
+        "Sonnenbrand: bevorzugt exponierte Beerenseite."
+      ],
+      "prevention": [
+        "Fruchtmumien und befallene Reste aus der Anlage entfernen.",
+        "Auch resistente Sorten kontrollieren; verlassene Anlagen als Infektionsquelle beachten."
+      ],
+      "bio": "Hygiene ist entscheidend; eine Peronospora-Behandlung deckt Schwarzfäule nicht automatisch ab. Nur explizite Indikation verwenden.",
+      "conventional": "Präparate mit ausdrücklicher Schwarzfäule-Indikation nach Infektionsrisiko prüfen.",
+      "substances": [
+        "Zugelassene Schwarzfäule-Fungizide"
+      ],
+      "sources": [
+        {
+          "title": "BLE/JKI · Schwarzfäule",
+          "url": "https://www.oekolandbau.de/bio-in-der-praxis/oekologische-landwirtschaft/pflanze/grundlagen-pflanzenbau/pflanzenschutz/schaderreger/schadorganismen-im-weinbau/pilzkrankheiten/schwarzfaeule-guignardia-bidwellii/"
+        },
+        {
+          "title": "Geisenheim · Schwarzfäule",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Guignardia"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/schwarzfaeule-1.jpg",
+          "caption": "Schwarzfäule - G. bidwellii - Blatt-Anfangssymptome",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Guignardia",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/guignardia-bidwellii/guignardia-bidwellii-01.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/schwarzfaeule-2.jpg",
+          "caption": "Schwarzfäule - G. bidwellii - Blattinfektion",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Guignardia",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/guignardia-bidwellii/guignardia-bidwellii-02.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/schwarzfaeule-4.jpg",
+          "caption": "Schwarzfäule - G. bidwellii - Blatt-Anfangssymptome",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Guignardia",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/guignardia-bidwellii/guignardia-bidwellii-04.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/schwarzfaeule-5.jpg",
+          "caption": "Schwarzfäule - G. bidwellii - Blatt-Anfangssymptome",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Guignardia",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/guignardia-bidwellii/guignardia-bidwellii-05.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/schwarzfaeule-6.jpg",
+          "caption": "Schwarzfäule - G. bidwellii - Blatt-junge Nekrosen",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Guignardia",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/guignardia-bidwellii/guignardia-bidwellii-06.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Nur bestätigte Öko-Anwendungen mit passender Indikation"
+      ]
+    },
+    {
+      "id": "roter-brenner",
+      "name": "Roter Brenner",
+      "scientific": "Pseudopezicula tracheiphila",
+      "category": "pilze",
+      "summary": "Scharf durch Blattadern begrenzte gelbe oder rote Blattflächen.",
+      "organs": [
+        "Blatt",
+        "Traube"
+      ],
+      "symptoms": [
+        "Gelbe Flecken bei weißen, rötliche bei roten Sorten; später Nekrosen.",
+        "Große Adern begrenzen die Flecken, frühes Blattsterben ist möglich."
+      ],
+      "cause": "Der Pilz überwintert im Falllaub und infiziert Blätter durch ausgeschleuderte Sporen.",
+      "weather": "Frühjährliche Niederschläge und feuchte Laubstreu fördern den Infektionsstart.",
+      "confusions": [
+        "Peronospora: Ölflecken mit möglichem Sporenrasen.",
+        "Nährstoffmangel: meist regelmäßigeres, über viele Blätter verteiltes Muster."
+      ],
+      "prevention": [
+        "Falllaubabbau unterstützen; bekannte Befallsparzellen früh kontrollieren.",
+        "Warndienst und Vorjahresbefall in die Planung einbeziehen."
+      ],
+      "bio": "Nur zugelassene Indikationen und Öko-Eignung verwenden; Laubhygiene bildet die Grundlage.",
+      "conventional": "Vorbeugenden Schutz bei Infektionsgefahr anhand ausdrücklich zugelassener Anwendungen wählen.",
+      "substances": [
+        "Zugelassene Kontaktfungizide"
+      ],
+      "sources": [
+        {
+          "title": "Vitipendium · DLR-Autoren zum Roten Brenner",
+          "url": "https://www.vitipendium.de/Roter_Brenner"
+        },
+        {
+          "title": "Geisenheim · Roter Brenner",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Pseudopezicula"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/roter-brenner-1.jpg",
+          "caption": "Roter Brenner - Pseudopezicula tracheiphila - Blatt",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Pseudopezicula",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/pseudopezicula-tracheiphila/pseudopezicula-tracheiphila-01.jpg",
+          "organs": [
+            "Blatt",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/roter-brenner-2.jpg",
+          "caption": "Roter Brenner - Pseudopezicula tracheiphila - Blatt",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Pseudopezicula",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/pseudopezicula-tracheiphila/pseudopezicula-tracheiphila-02.jpg",
+          "organs": [
+            "Blatt",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/roter-brenner-4.jpg",
+          "caption": "Roter Brenner - Pseudopezicula tracheiphila - Traube",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Pseudopezicula",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/pseudopezicula-tracheiphila/pseudopezicula-tracheiphila-04.jpg",
+          "organs": [
+            "Traube",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/roter-brenner-5.jpg",
+          "caption": "Roter Brenner - Pseudopezicula tracheiphila - Stielgerüst",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Pseudopezicula",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/pseudopezicula-tracheiphila/pseudopezicula-tracheiphila-05.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Nur bestätigte Öko-Anwendungen mit passender Indikation"
+      ]
+    },
+    {
+      "id": "esca",
+      "name": "Esca",
+      "scientific": "Holzkrankheitskomplex, u. a. Fomitiporia mediterranea",
+      "category": "pilze",
+      "summary": "Tigerstreifen im Blatt und geschädigtes mehrjähriges Holz.",
+      "organs": [
+        "Blatt",
+        "Traube",
+        "Holz"
+      ],
+      "symptoms": [
+        "Gelbe oder rote Zwischenaderstreifen mit nekrotischen Partien; grüne Adern bleiben.",
+        "Beeren mit dunklen Punkten; einzelne Stöcke können plötzlich welken.",
+        "Im Stamm können helle, weiche Holzfäulebereiche auftreten."
+      ],
+      "cause": "Mehrere holzbesiedelnde Pilze sind beteiligt; Symptome können jahresweise aussetzen.",
+      "weather": "Blattsymptome fallen oft im Sommer auf; Belastung und Wasserhaushalt beeinflussen den Verlauf.",
+      "confusions": [
+        "Magnesiummangel und Blattrollkrankheit.",
+        "Akute Welke auch durch Wurzelschaden oder andere Holzkrankheiten."
+      ],
+      "prevention": [
+        "Kranke Stöcke markieren; große Schnittwunden und verletzungsreichen Schnitt vermeiden.",
+        "Sanierung oder Stammneubau fachlich planen."
+      ],
+      "bio": "Keine heilende Blattspritzung. Vorbeugenden biologischen Wundschutz nur mit passender Zulassung und Beratung prüfen.",
+      "conventional": "Keine heilende Standard-Blattspritzung; Wundschutz und Stockpflege nach Beratung.",
+      "substances": [
+        "Vorbeugender Wundschutz, ggf. Trichoderma"
+      ],
+      "sources": [
+        {
+          "title": "JKI · Esca-Krankheit der Weinrebe",
+          "url": "https://www.julius-kuehn.de/media/Veroeffentlichungen/Flyer/Esca-Krankheit_Weinrebe_.pdf"
+        },
+        {
+          "title": "Geisenheim · Esca",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Esca"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/esca-1.jpg",
+          "caption": "Esca - Blattsymptom",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Esca",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/esca/esca-01.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/esca-2.jpg",
+          "caption": "Esca - Befall an Trauben",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Esca",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/esca/esca-02.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/esca-5.jpg",
+          "caption": "Esca - Blatt-Symptome an Riesling",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Esca",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/esca/esca-05.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/esca-10.jpg",
+          "caption": "Esca - Symptome an Riesling - apoplektischer Verlauf",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Esca",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/esca/esca-10.jpg",
+          "organs": [
+            "Blatt",
+            "Traube",
+            "Holz"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/esca-13.jpg",
+          "caption": "Esca-Holz - Fomitiporia mediterranea - Fruchtkörper",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Esca",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/esca/esca-13.jpg",
+          "organs": [
+            "Holz"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Vorbeugender Wundschutz, ggf. Trichoderma"
+      ]
+    },
+    {
+      "id": "phomopsis",
+      "name": "Phomopsis · Schwarzfleckenkrankheit",
+      "scientific": "Diaporthe-Arten (syn. Phomopsis viticola)",
+      "category": "pilze",
+      "summary": "Schwarze Triebflecken und aufgehelltes Holz mit dunklen Pünktchen.",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Holz"
+      ],
+      "symptoms": [
+        "Kleine dunkle Blattflecken, häufig mit heller Umrandung.",
+        "An der Triebbasis längliche, rissige Nekrosen.",
+        "Vorjahresholz hellt auf und trägt schwarze Fruchtkörper."
+      ],
+      "cause": "Pilzliche Überwinterung am befallenen Holz; Regen verteilt Sporen auf junges Gewebe.",
+      "weather": "Kühle, nasse Austriebsphasen begünstigen frühe Infektionen.",
+      "confusions": [
+        "Oidiumfiguren am Holz.",
+        "Hagelnarben und mechanische Triebverletzungen."
+      ],
+      "prevention": [
+        "Stark befallenes Holz entfernen; ausgewogene Schnitt- und Laubarbeit.",
+        "Austrieb und junge Internodien in Befallsanlagen eng kontrollieren."
+      ],
+      "bio": "Schwefel- oder Kupferpräparate nur bei passender Indikation und Eignung prüfen.",
+      "conventional": "Frühen Schutz vor Infektionsniederschlägen mit zugelassenem Mittel planen.",
+      "substances": [
+        "Schwefel",
+        "Kupferverbindungen"
+      ],
+      "sources": [
+        {
+          "title": "Vitipendium · Phomopsis",
+          "url": "https://vitipendium.de/Phomopsis_viticola"
+        },
+        {
+          "title": "Geisenheim · Phomopsis · Schwarzfleckenkrankheit",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Phomopsis"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/phomopsis-1.jpg",
+          "caption": "Phomopsis viticola - Blattnekrosen",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Phomopsis",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/phomopsis-viticola/phomopsis-viticola-01.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/phomopsis-2.jpg",
+          "caption": "Phomopsis viticola - Blattnekrosen",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Phomopsis",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/phomopsis-viticola/phomopsis-viticola-02.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/phomopsis-4.jpg",
+          "caption": "Phomopsis viticola - schiffchenförmige Triebnekrosen",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Phomopsis",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/phomopsis-viticola/phomopsis-viticola-04.jpg",
+          "organs": [
+            "Trieb"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/phomopsis-5.jpg",
+          "caption": "Phomopsis viticola - schiffchenförmige Triebnekrosen",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Phomopsis",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/phomopsis-viticola/phomopsis-viticola-05.jpg",
+          "organs": [
+            "Trieb"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Schwefel",
+        "Kupferverbindungen"
+      ]
+    },
+    {
+      "id": "traubenwickler",
+      "name": "Traubenwickler",
+      "scientific": "Lobesia botrana / Eupoecilia ambiguella",
+      "category": "schaedlinge",
+      "summary": "Gespinste im Geschein, Fraß und Einbohrungen an Beeren.",
+      "organs": [
+        "Geschein",
+        "Traube",
+        "Tier"
+      ],
+      "symptoms": [
+        "Heuwurm: Gespinste und Fraß im Blütenstand.",
+        "Sauerwurm: Einbohrungen, Kot und beschädigte Beeren; Fäulnis kann folgen."
+      ],
+      "cause": "Die Raupen zweier Wicklerarten schädigen Blüten und Früchte über mehrere Generationen.",
+      "weather": "Flug und Schlupf hängen von Temperatur und Witterung ab; örtliches Monitoring entscheidet.",
+      "confusions": [
+        "Andere Gespinstraupen; auf Raupen und Fraßspuren achten.",
+        "Botrytis kann eine Folge des Fraßschadens sein."
+      ],
+      "prevention": [
+        "Pheromonfallen und regionale Fangmeldungen verfolgen.",
+        "Großflächige Verwirrung gemeinsam mit Nachbarbetrieben organisieren."
+      ],
+      "bio": "Pheromonverwirrung vorbeugend; zugelassene Bacillus-thuringiensis-Präparate zum passenden Larvenstadium prüfen.",
+      "conventional": "Erst nach Monitoring und Schadschwelle behandeln; Nützlinge und Resistenzmanagement beachten.",
+      "substances": [
+        "Pheromone",
+        "Bacillus thuringiensis",
+        "Chlorantraniliprol"
+      ],
+      "sources": [
+        {
+          "title": "Geisenheim · Traubenwickler",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eupoecilia"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/traubenwickler-4.jpg",
+          "caption": "Traubenwickler - Eupoecilia ambiguella - L4",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eupoecilia",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eupoecilia-lobesia/eupoecilia-lobesia-04.jpg",
+          "organs": [
+            "Traube",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/traubenwickler-7.jpg",
+          "caption": "Traubenwickler - Eupoecilia ambiguella - Imago",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eupoecilia",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eupoecilia-lobesia/eupoecilia-lobesia-07.jpg",
+          "organs": [
+            "Traube",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/traubenwickler-8.jpg",
+          "caption": "Traubenwickler - Lobesia botrana - Imago",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eupoecilia",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eupoecilia-lobesia/eupoecilia-lobesia-08.jpg",
+          "organs": [
+            "Traube",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/traubenwickler-9.jpg",
+          "caption": "Traubenwickler-Schadbild Heuwurm",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eupoecilia",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eupoecilia-lobesia/eupoecilia-lobesia-09.jpg",
+          "organs": [
+            "Traube",
+            "Geschein"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/traubenwickler-11.jpg",
+          "caption": "Traubenwickler-Schadbild Sauerwurm",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eupoecilia",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eupoecilia-lobesia/eupoecilia-lobesia-11.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Pheromone",
+        "Bacillus thuringiensis"
+      ]
+    },
+    {
+      "id": "kraeuselmilbe",
+      "name": "Kräuselmilbe",
+      "scientific": "Calepitrimerus vitis",
+      "category": "schaedlinge",
+      "summary": "Gestauchte junge Triebe und verformte, klein bleibende Blätter.",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Tier"
+      ],
+      "symptoms": [
+        "Verzögerter, ungleichmäßiger Austrieb; kurze Internodien.",
+        "Kleine gekräuselte Blätter; im Gegenlicht können helle Saugstellen auffallen."
+      ],
+      "cause": "Winzige Gallmilben überwintern an Knospen und schädigen das junge Gewebe.",
+      "weather": "Kühler Austrieb verlangsamt das Rebwachstum und verstärkt sichtbare Schäden.",
+      "confusions": [
+        "Frost, Herbizidschaden und Virusbefall.",
+        "Eine sichere Milbenbestimmung erfordert Vergrößerung."
+      ],
+      "prevention": [
+        "Raubmilben fördern und in jungen Anlagen etablieren.",
+        "Befallsherde markieren; Austrieb und Vorjahresbefall beobachten."
+      ],
+      "bio": "Austriebsbehandlungen mit dafür zugelassenem Schwefelpräparat nur gezielt nach Befallslage prüfen.",
+      "conventional": "Selektive, raubmilbenschonende Strategie nach Beratung; keine pauschale Insektizidspritzung.",
+      "substances": [
+        "Schwefel"
+      ],
+      "sources": [
+        {
+          "title": "Vitipendium · Kräuselmilbe",
+          "url": "https://www.vitipendium.de/Kräuselmilbe"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Schwefel"
+      ]
+    },
+    {
+      "id": "pockenmilbe",
+      "name": "Pockenmilbe · Rebenpockenmilbe",
+      "scientific": "Colomerus vitis",
+      "category": "schaedlinge",
+      "summary": "Blattpocken oben, heller bis brauner Filz darunter.",
+      "organs": [
+        "Blatt",
+        "Tier"
+      ],
+      "symptoms": [
+        "Blasenartige Wölbungen auf der Blattoberseite.",
+        "Unterseits zunächst weißlicher, später bräunlicher Haarfilz."
+      ],
+      "cause": "Gallmilben lösen lokale Gewebewucherungen und Filzbildung aus.",
+      "weather": "Der Austrieb und die Wuchsbedingungen bestimmen die Ausprägung.",
+      "confusions": [
+        "Peronospora: kein fester Filz in Blattpocken.",
+        "Reblaus: geschlossene, sackartige Gallen statt Filzflecken."
+      ],
+      "prevention": [
+        "Raubmilben schonen; geringe Symptome zunächst beobachten.",
+        "Starken Befall und geschädigte Gescheine dokumentieren."
+      ],
+      "bio": "In begründeten Fällen passende Austriebsanwendung prüfen; Filzschäden verschwinden durch spätere Behandlung nicht.",
+      "conventional": "Nützlingsschonend und nur bei Bedarf vorgehen; aktuelles Indikationsverzeichnis nutzen.",
+      "substances": [
+        "Schwefel"
+      ],
+      "sources": [
+        {
+          "title": "Vitipendium · Blattgallmilbe",
+          "url": "https://www.vitipendium.de/Blattgallmilbe"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/pockenmilbe-1.jpg",
+          "caption": "Pockenmilbe · Blattpocken und Filz, Vergleichsaufnahme 1",
+          "credit": "Bj.schoenmakers",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "https://commons.wikimedia.org/wiki/File:Colomerus_vitis_(Eriophyes_vitis),_Arnhem,_the_Netherlands.jpg",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/Colomerus_vitis_%28Eriophyes_vitis%29%2C_Arnhem%2C_the_Netherlands.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/pockenmilbe-2.jpg",
+          "caption": "Pockenmilbe · Blattpocken und Filz, Vergleichsaufnahme 2",
+          "credit": "Bj.schoenmakers",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "https://commons.wikimedia.org/wiki/File:Colomerus_vitis_(Eriophyes_vitis),_Arnhem,_the_Netherlands_-_2.jpg",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Colomerus_vitis_%28Eriophyes_vitis%29%2C_Arnhem%2C_the_Netherlands_-_2.jpg",
+          "organs": [
+            "Blatt"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Schwefel"
+      ]
+    },
+    {
+      "id": "rebzikaden",
+      "name": "Grüne Rebzikade",
+      "scientific": "Empoasca vitis",
+      "category": "schaedlinge",
+      "summary": "Randverfärbungen mit winkliger Begrenzung und beweglichen Larven.",
+      "organs": [
+        "Blatt",
+        "Tier"
+      ],
+      "symptoms": [
+        "Blattränder vergilben oder röten sich, später trocknen sie ein.",
+        "Auf der Blattunterseite kleine grüne Larven und leere Häutungsreste."
+      ],
+      "cause": "Saugaktivität beeinträchtigt das Leitgewebe der Blätter.",
+      "weather": "Warme Vegetationsperioden können die Entwicklung fördern; Befallsstärke vor Ort prüfen.",
+      "confusions": [
+        "Kalium- oder Magnesiummangel.",
+        "Schwarzholzkrankheit und Goldgelbe Vergilbung sind andere, ernstere Diagnosen."
+      ],
+      "prevention": [
+        "Unterseiten kontrollieren und Larven zählen; Nützlinge erhalten.",
+        "Behandlungsschwellen des regionalen Dienstes beachten."
+      ],
+      "bio": "Keine vorsorgliche Breitbandbehandlung; aktuelle Öko-Verfahren und tatsächlichen Bedarf mit Beratung abklären.",
+      "conventional": "Nur geeignete zugelassene Indikation bei überschrittener Schadschwelle erwägen.",
+      "substances": [
+        "Zulassungsabhängige Insektizide"
+      ],
+      "sources": [
+        {
+          "title": "Geisenheim · Grüne Rebzikade",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Empoasca"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/rebzikaden-3.jpg",
+          "caption": "Grüne Rebzikade - Empoasca vitis - Larve 1",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Empoasca",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/empoasca-vitis/empoasca-vitis-03.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/rebzikaden-8.jpg",
+          "caption": "Grüne Rebzikade - Empoasca vitis - Imago",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Empoasca",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/empoasca-vitis/empoasca-vitis-08.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/rebzikaden-13.jpg",
+          "caption": "Grüne Rebzikade - Empoasca vitis - Blattunterseite",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Empoasca",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/empoasca-vitis/empoasca-vitis-13.jpg",
+          "organs": [
+            "Blatt",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/rebzikaden-17.jpg",
+          "caption": "Grüne Rebzikade - Empoasca vitis",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Empoasca",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/empoasca-vitis/empoasca-vitis-17.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/rebzikaden-18.jpg",
+          "caption": "Grüne Rebzikade - Empoasca vitis",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Empoasca",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/empoasca-vitis/empoasca-vitis-18.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Zulassungsabhängige Insektizide"
+      ]
+    },
+    {
+      "id": "kirschessigfliege",
+      "name": "Kirschessigfliege",
+      "scientific": "Drosophila suzukii",
+      "category": "schaedlinge",
+      "summary": "Eiablage in reifende Beeren; weiche Stellen und Folgefäule.",
+      "organs": [
+        "Traube",
+        "Tier"
+      ],
+      "symptoms": [
+        "Männchen mit dunklem Flügelfleck; Weibchen nur fachlich sicher unterscheiden.",
+        "Eier mit Atemfäden und später weiche, saftende Beerenstellen."
+      ],
+      "cause": "Der sägeartige Legeapparat erlaubt die Eiablage auch in noch unverletzte Früchte.",
+      "weather": "Feuchtmilde, schattige Bedingungen und empfindliche, reifende Sorten fördern das Risiko.",
+      "confusions": [
+        "Gewöhnliche Essigfliegen an bereits verletzten Beeren.",
+        "Essigfäule allein beweist keine Eiablage von D. suzukii."
+      ],
+      "prevention": [
+        "Traubenzone trocken und luftig halten; Verletzungen und Saftaustritt begrenzen.",
+        "Eiablageproben und Warndienst nutzen; rechtzeitige Lese erwägen."
+      ],
+      "bio": "Netze und Hygiene prüfen; Insektizide nur mit aktuell passender Indikation, Öko-Eignung und Bienenschutz.",
+      "conventional": "Keine reine Fangzahlenbehandlung; Eiablagekontrollen und Wartezeit kurz vor Lese sind entscheidend.",
+      "substances": [
+        "Aktuell zugelassene KEF-Verfahren"
+      ],
+      "sources": [
+        {
+          "title": "Geisenheim · Kirschessigfliege",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Drosophila"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/kirschessigfliege-1.jpg",
+          "caption": "D. suzukii - Männchen mit schwarzen Flügelpunkten",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Drosophila",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/drosophila-suzukii/drosophila-suzukii-01.jpg",
+          "organs": [
+            "Traube",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/kirschessigfliege-2.jpg",
+          "caption": "Drosophila suzukii - Weibchen",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Drosophila",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/drosophila-suzukii/drosophila-suzukii-02.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/kirschessigfliege-8.jpg",
+          "caption": "Drosophila suzukii - befallene Beere",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Drosophila",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/drosophila-suzukii/drosophila-suzukii-08.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/kirschessigfliege-9.jpg",
+          "caption": "Drosophila suzukii - befallene Beeren",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Drosophila",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/drosophila-suzukii/drosophila-suzukii-09.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/kirschessigfliege-12.jpg",
+          "caption": "Drosophila suzukii - Eier mit Eifäden",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Drosophila",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/drosophila-suzukii/drosophila-suzukii-12.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Aktuell zugelassene KEF-Verfahren"
+      ]
+    },
+    {
+      "id": "reblaus",
+      "name": "Reblaus",
+      "scientific": "Daktulosphaira vitifoliae",
+      "category": "schaedlinge",
+      "summary": "Blattgallen oder Wurzelwucherungen; vor allem Pflanzgut beachten.",
+      "organs": [
+        "Blatt",
+        "Wurzel",
+        "Tier"
+      ],
+      "symptoms": [
+        "Sackartige Gallen an Blättern bestimmter Unterlagen und Reben.",
+        "Wurzelbefall kann Knoten, Wuchsdepression und Absterben verursachen."
+      ],
+      "cause": "Rebläuse entwickeln sich an Blatt oder Wurzel; wurzelechte anfällige Reben sind besonders gefährdet.",
+      "weather": "Boden, Unterlage und Wirt beeinflussen den Befall stärker als ein einzelnes Wetterereignis.",
+      "confusions": [
+        "Pockenmilbe mit offenem Haarfilz.",
+        "Wurzelschäden durch Nässe oder andere Erreger."
+      ],
+      "prevention": [
+        "Gesundes Pflanzgut auf geeigneten reblausfesten Unterlagen verwenden.",
+        "Verdächtiges Material nicht unkontrolliert weiterverbreiten."
+      ],
+      "bio": "Unterlagenwahl und Pflanzguthygiene; Befall fachlich abklären lassen.",
+      "conventional": "Keine pauschale kurative Spritzempfehlung; Pflanzenschutzdienst einschalten.",
+      "substances": [
+        "Keine pauschale Spritzempfehlung"
+      ],
+      "sources": [
+        {
+          "title": "Geisenheim · Reblaus",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Daktulosphaira"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/reblaus-1.jpg",
+          "caption": "Reblaus - Grape Phylloxera - Blattgalle - Blattoberseite",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Daktulosphaira",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/daktulosphaira-vitifoliae/daktulosphaira-vitifoliae-01.jpg",
+          "organs": [
+            "Blatt",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/reblaus-3.jpg",
+          "caption": "Reblaus - Grape Phylloxera - Blattgalle - Blattunterseite",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Daktulosphaira",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/daktulosphaira-vitifoliae/daktulosphaira-vitifoliae-03.jpg",
+          "organs": [
+            "Blatt",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/reblaus-7.jpg",
+          "caption": "Reblaus - Grape Phylloxera - Blattgalle - Eigelege",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Daktulosphaira",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/daktulosphaira-vitifoliae/daktulosphaira-vitifoliae-07.jpg",
+          "organs": [
+            "Blatt",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/reblaus-13.jpg",
+          "caption": "Reblaus - Grape Phylloxera - Mailaus",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Daktulosphaira",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/daktulosphaira-vitifoliae/daktulosphaira-vitifoliae-13.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/reblaus-16.jpg",
+          "caption": "Reblaus - Grape Phylloxera - geflügelte Reblaus",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Daktulosphaira",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/daktulosphaira-vitifoliae/daktulosphaira-vitifoliae-16.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Keine pauschale Spritzempfehlung"
+      ]
+    },
+    {
+      "id": "spinnmilben",
+      "name": "Spinnmilben",
+      "scientific": "Panonychus ulmi / Tetranychus urticae",
+      "category": "schaedlinge",
+      "summary": "Helle Saugpunkte und bronzefarbenes Laub.",
+      "organs": [
+        "Blatt",
+        "Tier"
+      ],
+      "symptoms": [
+        "Feine helle Sprenkel; später bronzefarbene oder matte Blätter.",
+        "Milben und Eier mit Lupe prüfen; Gespinste sind artabhängig."
+      ],
+      "cause": "Saugende Milben vermehren sich bei gestörtem Verhältnis zu natürlichen Gegenspielern.",
+      "weather": "Warme, trockene Bedingungen können den Aufbau begünstigen.",
+      "confusions": [
+        "Nährstoffmangel, Trockenstress und Kräuselmilbe."
+      ],
+      "prevention": [
+        "Raubmilbenbestände erhalten; Laubproben und Schadschwellen nutzen.",
+        "Nichtselektive Pflanzenschutzmaßnahmen vermeiden."
+      ],
+      "bio": "Raubmilben fördern; nur bei Bedarf ein für BIO und die konkrete Indikation geeignetes Mittel prüfen.",
+      "conventional": "Akarizide nur nach bestätigtem Befall, zugelassener Indikation und Resistenzstrategie.",
+      "substances": [
+        "Aktuell zugelassene Akarizide"
+      ],
+      "sources": [
+        {
+          "title": "Geisenheim · Spinnmilben",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Panonychus"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/spinnmilben-1.jpg",
+          "caption": "Obstbaumspinnmilbe - Panonychus ulmi - Wintereier",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Panonychus",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/panonychus-ulmi/panonychus-ulmi-01.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/spinnmilben-2.jpg",
+          "caption": "Obstbaumspinnmilbe - Panonychus ulmi - Wintereier",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Panonychus",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/panonychus-ulmi/panonychus-ulmi-02.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/spinnmilben-3.jpg",
+          "caption": "Obstbaumspinnmilbe - Panonychus ulmi - Wintereier",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Panonychus",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/panonychus-ulmi/panonychus-ulmi-03.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/spinnmilben-4.jpg",
+          "caption": "Obstbaumspinnmilbe - Panonychus ulmi - Wintereier",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Panonychus",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/panonychus-ulmi/panonychus-ulmi-04.jpg",
+          "organs": [
+            "Tier"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Aktuell zugelassene Akarizide"
+      ]
+    },
+    {
+      "id": "magnesium",
+      "name": "Magnesiummangel",
+      "scientific": "Mg-Mangel",
+      "category": "naehrstoffe",
+      "summary": "Zwischenaderaufhellung beginnt typischerweise an älteren Blättern.",
+      "organs": [
+        "Blatt"
+      ],
+      "symptoms": [
+        "Gelbe oder rote Bereiche zwischen grünen Hauptadern.",
+        "Das grüne Adermuster kann an einen Tannenbaum erinnern."
+      ],
+      "cause": "Unzureichende Mg-Versorgung oder gehemmte Aufnahme, etwa durch Nährstoffungleichgewicht.",
+      "weather": "Trockenheit und eingeschränkte Wurzelaktivität können die Versorgung verschlechtern.",
+      "confusions": [
+        "Esca, Blattrollkrankheit und Rebzikadenschäden."
+      ],
+      "prevention": [
+        "Blatt- und Bodenuntersuchung mit Standort und Wuchsbild gemeinsam auswerten.",
+        "Kalium-Magnesium-Verhältnis und Düngung prüfen."
+      ],
+      "bio": "Bedarfsgerecht mit im Ökobetrieb zulässigen Düngemitteln korrigieren; kein Pflanzenschutzmittel gegen die Ursache.",
+      "conventional": "Gezielte Mg-Düngung nach Diagnose; keine pauschale Menge ohne Analyse.",
+      "substances": [
+        "Magnesiumdünger; keine PSM-Indikation"
+      ],
+      "sources": [
+        {
+          "title": "DLR/Vitipendium · Magnesium",
+          "url": "https://www.vitipendium.de/Magnesium"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Magnesiumdünger; keine PSM-Indikation"
+      ]
+    },
+    {
+      "id": "kalium",
+      "name": "Kaliummangel",
+      "scientific": "K-Mangel",
+      "category": "naehrstoffe",
+      "summary": "Blattränder verändern sich, rollen und können nekrotisch werden.",
+      "organs": [
+        "Blatt"
+      ],
+      "symptoms": [
+        "Ältere Blätter zeigen Randverfärbungen und Einrollen.",
+        "Später können braune, trockene Blattränder entstehen."
+      ],
+      "cause": "Mangelnde Kaliumverfügbarkeit oder gestörte Aufnahme; nicht allein am Foto diagnostizieren.",
+      "weather": "Trockenheit kann die Nährstoffaufnahme begrenzen.",
+      "confusions": [
+        "Rebzikade, Trockenstress und Salzschäden."
+      ],
+      "prevention": [
+        "Versorgung über Boden- und Blattanalysen prüfen.",
+        "Wasserhaushalt und konkurrierende Nährstoffe berücksichtigen."
+      ],
+      "bio": "Nur bedarfsgerechte, für den Betrieb geeignete Kaliumdüngung; keinen Mg-Mangel provozieren.",
+      "conventional": "Düngung und Bodenpflege an Analyse und Standort anpassen.",
+      "substances": [
+        "Kaliumdünger; kein Pflanzenschutzmittel"
+      ],
+      "sources": [
+        {
+          "title": "DLR/Vitipendium · Kalium",
+          "url": "https://www.vitipendium.de/Kalium"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Kaliumdünger; kein Pflanzenschutzmittel"
+      ]
+    },
+    {
+      "id": "eisen",
+      "name": "Eisenmangel · Chlorose",
+      "scientific": "Fe-Aufnahmestörung / Kalkchlorose",
+      "category": "naehrstoffe",
+      "summary": "Junge Blätter hellen zwischen grünen Blattadern auf.",
+      "organs": [
+        "Blatt"
+      ],
+      "symptoms": [
+        "Jüngstes Laub gelblich bis fast weiß; zunächst grüne Adern.",
+        "Bei starkem Verlauf eingeschränktes Wachstum und Nekrosen."
+      ],
+      "cause": "Oft ist Eisen vorhanden, aber bei Kalk, hohem pH oder geschädigten Wurzeln schlecht verfügbar.",
+      "weather": "Kalte, nasse Böden und Staunässe fördern Aufnahmeprobleme.",
+      "confusions": [
+        "Magnesiummangel beginnt eher an älteren Blättern.",
+        "Virus- und Wurzelschäden können ähnliche Aufhellungen auslösen."
+      ],
+      "prevention": [
+        "Unterlage, Bodenstruktur und Wasserabzug beachten.",
+        "Standort- und Blattdiagnostik nutzen; keine reine Fotoentscheidung."
+      ],
+      "bio": "Ursache beheben; geeignete Eisenversorgung nur nach Beratung und Öko-Vorgaben.",
+      "conventional": "Bei bestätigtem Bedarf passende Eisenpräparate und Bodenmaßnahmen fachlich abstimmen.",
+      "substances": [
+        "Eisendünger; kein Pflanzenschutzmittel"
+      ],
+      "sources": [
+        {
+          "title": "WBI · Chlorose-Flyer",
+          "url": "https://wbi.landwirtschaft-bw.de/site/pbs-bw-new/get/documents/MLR.LEL/PB5Documents/wbi/011%20Fachartikel/0120%20FA%20Referat%2033%20Bodenkunde/1201_21%20FA%202021/Chlorose_Flyer_2021.pdf?attachment=true"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Eisendünger; kein Pflanzenschutzmittel"
+      ]
+    },
+    {
+      "id": "stickstoff",
+      "name": "Stickstoffmangel",
+      "scientific": "N-Mangel",
+      "category": "naehrstoffe",
+      "summary": "Gleichmäßig blasses Laub und schwacher Wuchs.",
+      "organs": [
+        "Blatt",
+        "Trieb"
+      ],
+      "symptoms": [
+        "Blätter insgesamt hellgrün bis gelblich, ältere oft zuerst.",
+        "Kurze, dünne Triebe und geringe Blattfläche."
+      ],
+      "cause": "N-Angebot oder Aufnahme reichen für die Rebe nicht aus; Wurzelschäden können denselben Eindruck erzeugen.",
+      "weather": "Kühle, nasse oder sehr trockene Böden bremsen die Verfügbarkeit.",
+      "confusions": [
+        "Wurzelstress, Eisenmangel und Viruskrankheiten."
+      ],
+      "prevention": [
+        "Wuchsstärke, Begrünung und Bodenversorgung gemeinsam beurteilen.",
+        "Düngung am Bedarf und den geltenden Vorgaben ausrichten."
+      ],
+      "bio": "Organische N-Versorgung und Begrünungsmanagement nach Bedarfsnachweis prüfen.",
+      "conventional": "Gezielte N-Düngung nach Bedarf; Überschüsse erhöhen Wuchs und Krankheitsdruck.",
+      "substances": [
+        "Stickstoffdünger; kein Pflanzenschutzmittel"
+      ],
+      "sources": [
+        {
+          "title": "DLR/Vitipendium · Stickstoff",
+          "url": "https://www.vitipendium.de/Stickstoff"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Stickstoffdünger; kein Pflanzenschutzmittel"
+      ]
+    },
+    {
+      "id": "bor",
+      "name": "Bormangel",
+      "scientific": "B-Mangel",
+      "category": "naehrstoffe",
+      "summary": "Gestörter Wuchs und Fruchtansatz; Diagnose durch Analyse absichern.",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Traube"
+      ],
+      "symptoms": [
+        "Junges Laub kann verformt oder mosaikartig aufgehellt sein.",
+        "Triebspitzen können absterben; schlechter Fruchtansatz und ungleichmäßige Beeren möglich."
+      ],
+      "cause": "Unzureichende Borversorgung stört Wachstum und Befruchtung; andere Ursachen sind häufig.",
+      "weather": "Trockenheit kann die Boraufnahme einschränken.",
+      "confusions": [
+        "Virusbefall, Frostschäden und Blütewitterung."
+      ],
+      "prevention": [
+        "Blattuntersuchung und Versorgung prüfen.",
+        "Bor nicht vorsorglich hoch dosieren: Mangel und Überschuss liegen eng beieinander."
+      ],
+      "bio": "Nur bestätigten Bedarf mit zulässigem Dünger gezielt ausgleichen.",
+      "conventional": "Analysegestützte Düngung; Überversorgung vermeiden.",
+      "substances": [
+        "Bordünger; kein Pflanzenschutzmittel"
+      ],
+      "sources": [
+        {
+          "title": "LVWO · Spurennährstoff Bor",
+          "url": "https://lvwo.landwirtschaft-bw.de/,Lde/Startseite/Fachinformationen/Informationen+ueber+den+Spurennaehrstoff+Bor?LISTPAGE=670162"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Bordünger; kein Pflanzenschutzmittel"
+      ]
+    },
+    {
+      "id": "trockenstress",
+      "name": "Trockenstress",
+      "scientific": "Wasserdefizit",
+      "category": "umwelt",
+      "summary": "Wachstumsstopp, welke Blätter und eingeschrumpfte Beeren.",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Traube"
+      ],
+      "symptoms": [
+        "Ranken trocknen ein, junge Triebe wachsen kaum weiter.",
+        "Basale Blätter welken; Beeren können schrumpfen."
+      ],
+      "cause": "Wasserverbrauch übersteigt die Versorgung aus dem Wurzelraum.",
+      "weather": "Lange Trockenphasen, Hitze, Wind und geringe nutzbare Bodenwasservorräte.",
+      "confusions": [
+        "Esca, Stiellähme und Wurzelschäden."
+      ],
+      "prevention": [
+        "Bodenwasser und Begrünung standortgerecht steuern.",
+        "Junganlagen besonders kontrollieren; harte späte Entblätterung vermeiden."
+      ],
+      "bio": "Wasserkonkurrenz reduzieren, rechtlich zulässige Bewässerung nach Bedarf prüfen.",
+      "conventional": "Gleiche Kulturmaßnahmen; Fungizide beheben Wassermangel nicht.",
+      "substances": [
+        "Keine Pflanzenschutzmittel gegen Wasserdefizit"
+      ],
+      "sources": [
+        {
+          "title": "LWG · Trockenstress im Weinbau",
+          "url": "https://www.lwg.bayern.de/weinbau/rebe_weinberg/137582/index.php"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Keine Pflanzenschutzmittel gegen Wasserdefizit"
+      ]
+    },
+    {
+      "id": "sonnenbrand",
+      "name": "Sonnenbrand · Hitzeschaden",
+      "scientific": "Strahlungs- und Hitzeschaden",
+      "category": "umwelt",
+      "summary": "Braune, eingesunkene oder trockene Stellen auf exponierten Beeren.",
+      "organs": [
+        "Traube",
+        "Blatt"
+      ],
+      "symptoms": [
+        "Schäden bevorzugt auf stark besonnten Seiten.",
+        "Beerenhaut verbräunt, Beeren können eintrocknen."
+      ],
+      "cause": "Zu hohe Gewebetemperatur und Strahlung schädigen zuvor beschattetes Gewebe.",
+      "weather": "Hitze, starke Einstrahlung und plötzliche Freistellung der Trauben.",
+      "confusions": [
+        "Schwarzfäule und Peronospora-Lederbeeren."
+      ],
+      "prevention": [
+        "Traubenzone früh und behutsam belichten, Beschattung an heißen Seiten erhalten.",
+        "Vor Hitzewellen keine abrupte starke Entblätterung."
+      ],
+      "bio": "Beschädigte Beeren beobachten und bei Lese sortieren; keine heilende Spritzung.",
+      "conventional": "Gleiche Kulturmaßnahmen; Folgefäule nach tatsächlichem Befall bewerten.",
+      "substances": [
+        "Keine heilende PSM-Anwendung"
+      ],
+      "sources": [
+        {
+          "title": "LVWO · Sonnenbrand an Reben",
+          "url": "https://lvwo.landwirtschaft-bw.de/,Lde/Startseite/Fachinformationen/Sonnenbrand+ein+einmaliges+Sonderereignis_"
+        },
+        {
+          "title": "Geisenheim · Sonnenbrand · Hitzeschaden",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/sonnenbrand-28.jpg",
+          "caption": "Sonnenbrand-Hitzeschaden",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-28.jpg",
+          "organs": [
+            "Traube",
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/sonnenbrand-29.jpg",
+          "caption": "Sonnenbrand-Hitzeschaden",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-29.jpg",
+          "organs": [
+            "Traube",
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/sonnenbrand-31.jpg",
+          "caption": "Sonnenbrand-Hitzeschaden - ES 79",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-31.jpg",
+          "organs": [
+            "Traube",
+            "Blatt"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/sonnenbrand-35.jpg",
+          "caption": "Sonnenbrand-Hitzeschaden - ES 79",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-35.jpg",
+          "organs": [
+            "Traube",
+            "Blatt"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Keine heilende PSM-Anwendung"
+      ]
+    },
+    {
+      "id": "frost",
+      "name": "Frost · Spätfrostschaden",
+      "scientific": "Kälteschaden",
+      "category": "umwelt",
+      "summary": "Nach kalter Nacht schlaffe, später braune junge Rebteile.",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Geschein"
+      ],
+      "symptoms": [
+        "Junge Triebe verlieren Spannung und werden dunkel.",
+        "Geschädigte Gescheine und Blätter trocknen später ein."
+      ],
+      "cause": "Gefrierendes Gewebe wird zerstört; der Austriebsstand bestimmt die Empfindlichkeit.",
+      "weather": "Strahlungsfrost bei klarer, windarmer Nacht; Kaltluft sammelt sich in Senken.",
+      "confusions": [
+        "Kräuselmilbe, Herbizidschaden und mechanischer Triebbruch."
+      ],
+      "prevention": [
+        "Lagenrisiko und lokale Temperaturen beobachten.",
+        "Frostschutz und Schnittmaßnahmen früh betrieblich planen."
+      ],
+      "bio": "Schadumfang nach einigen Tagen beurteilen und Laubarbeit an Ersatztriebe anpassen.",
+      "conventional": "Gleiche Kulturmaßnahmen; zerstörtes Gewebe wird durch Fungizide nicht wiederhergestellt.",
+      "substances": [
+        "Keine heilende PSM-Anwendung"
+      ],
+      "sources": [
+        {
+          "title": "Vitipendium · Abiotische Schadursachen",
+          "url": "https://www.vitipendium.de/Abiotische_Schadursachen"
+        },
+        {
+          "title": "Geisenheim · Frost · Spätfrostschaden",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/frost-43.jpg",
+          "caption": "Spätfrostschaden",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-43.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Geschein"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/frost-44.jpg",
+          "caption": "Spätfrostschaden",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-44.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Geschein"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/frost-46.jpg",
+          "caption": "Spätfrostschaden",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-46.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Geschein"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/frost-51.jpg",
+          "caption": "Spätfrostschaden",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-51.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Geschein"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Keine heilende PSM-Anwendung"
+      ]
+    },
+    {
+      "id": "hagel",
+      "name": "Hagelschäden",
+      "scientific": "Mechanische Verletzung durch Hagel",
+      "category": "umwelt",
+      "summary": "Zerrissene Blätter, angeschlagene Triebe und Beeren.",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Traube"
+      ],
+      "symptoms": [
+        "Unregelmäßige Löcher und Risse; Wunden an mehreren Pflanzenorganen.",
+        "Beeren können platzen und sekundär faulen."
+      ],
+      "cause": "Eisschlag verletzt das Gewebe; Ausmaß hängt von Korngröße und Entwicklungsstand ab.",
+      "weather": "Gewitter mit Hagel; nasse Folgewitterung erhöht Folgeinfektionsrisiken.",
+      "confusions": [
+        "Fraßschaden und mechanische Schäden durch Arbeiten."
+      ],
+      "prevention": [
+        "Hagelereignis und Schadumfang dokumentieren.",
+        "Laubwand und spätere Lese an die Restfläche anpassen."
+      ],
+      "bio": "Folgekrankheiten kontrollieren; keine pauschale Wund- oder Desinfektionsspritzung ohne zugelassene Indikation.",
+      "conventional": "Schutz gegen konkrete Folgeerreger nur nach aktuellem Warndienst und Zulassung prüfen.",
+      "substances": [
+        "Nur erregerspezifische zugelassene Anwendungen"
+      ],
+      "sources": [
+        {
+          "title": "Geisenheim · Hagelschäden",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/hagel-1.jpg",
+          "caption": "Hagelschäden",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-01.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/hagel-3.jpg",
+          "caption": "Hagelschäden",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-03.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/hagel-8.jpg",
+          "caption": "Hagelschäden",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-08.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/hagel-15.jpg",
+          "caption": "Hagelschäden",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Abiotisch",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/abiotische-ursachen/abiotische-ursachen-15.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Traube"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Nur erregerspezifische zugelassene Anwendungen"
+      ]
+    },
+    {
+      "id": "staunaesse",
+      "name": "Staunässe",
+      "scientific": "Sauerstoffmangel im Wurzelraum",
+      "category": "umwelt",
+      "summary": "Schwacher Wuchs und Chlorosen in nassen, verdichteten Bereichen.",
+      "organs": [
+        "Blatt",
+        "Wurzel",
+        "Trieb"
+      ],
+      "symptoms": [
+        "Laub hellt auf; Reben können trotz nassem Boden welken.",
+        "Häufig räumlicher Bezug zu Senken, Fahrspuren oder verdichtetem Boden."
+      ],
+      "cause": "Wasser verdrängt Luft im Boden; Wurzeln und Nährstoffaufnahme werden beeinträchtigt.",
+      "weather": "Anhaltender Regen, schlechte Durchlässigkeit und hoher Wasserstand.",
+      "confusions": [
+        "Eisenmangel und pilzliche Wurzelschäden."
+      ],
+      "prevention": [
+        "Verdichtungen und Wasserabfluss standortgerecht prüfen.",
+        "Nasse Böden nicht unnötig befahren."
+      ],
+      "bio": "Bodenstruktur und Wasserhaushalt verbessern; Nährstoffkorrektur erst nach Ursachenprüfung.",
+      "conventional": "Gleiche Maßnahmen; Pflanzenschutzmittel lösen den Sauerstoffmangel nicht.",
+      "substances": [
+        "Kein Pflanzenschutzmittel gegen Staunässe"
+      ],
+      "sources": [
+        {
+          "title": "WBI · Chlorose und Standort",
+          "url": "https://wbi.landwirtschaft-bw.de/site/pbs-bw-new/get/documents/MLR.LEL/PB5Documents/wbi/011%20Fachartikel/0120%20FA%20Referat%2033%20Bodenkunde/1201_21%20FA%202021/Chlorose_Flyer_2021.pdf?attachment=true"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Kein Pflanzenschutzmittel gegen Staunässe"
+      ]
+    },
+    {
+      "id": "herbizidschaeden",
+      "name": "Herbizidschäden",
+      "scientific": "Phytotoxische Wirkstoffeinwirkung",
+      "category": "umwelt",
+      "summary": "Verformte Blätter und Triebe; oft auffälliger Randgradient.",
+      "organs": [
+        "Blatt",
+        "Trieb"
+      ],
+      "symptoms": [
+        "Je nach Wirkstoff verformte, schmale oder petersilienartige Blätter.",
+        "Verdrehte Triebe, Aufhellungen oder Nekrosen; Erscheinung oft verzögert."
+      ],
+      "cause": "Abdrift, Geräteverunreinigung, Kontakt mit Stockaustrieben oder andere Fehlkontakte.",
+      "weather": "Wind und ungeeignete Applikationsbedingungen fördern Abdrift; Wetter beeinflusst die Symptomstärke.",
+      "confusions": [
+        "Virusbefall, Kräuselmilbe und Nährstoffstörung.",
+        "Der Wirkstoff lässt sich aus einem Bild allein nicht sicher bestimmen."
+      ],
+      "prevention": [
+        "Geräte sauber trennen und reinigen; Abdrift konsequent vermeiden.",
+        "Zeitpunkt, Randverlauf und mögliche Exposition dokumentieren."
+      ],
+      "bio": "Ursache stoppen, geschädigte Reben beobachten und Beratung einbeziehen.",
+      "conventional": "Keine heilende Gegenmittel-Spritzung; Ursache und Verantwortlichkeit fachlich klären.",
+      "substances": [
+        "Kein pauschales Gegenmittel"
+      ],
+      "sources": [
+        {
+          "title": "DLR · Herbizidschäden an Reben",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/1eabb65dcddc4614c125700a00339849/160cd6191fe731f4c125701200519140?OpenDocument="
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Kein pauschales Gegenmittel"
+      ]
+    },
+    {
+      "id": "schwarzholz",
+      "name": "Schwarzholzkrankheit",
+      "scientific": "„Candidatus Phytoplasma solani“",
+      "category": "sonstige",
+      "summary": "Blattrollen, Verfärbung und schlecht ausreifende Triebe.",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Traube",
+        "Tier"
+      ],
+      "symptoms": [
+        "Gelbe oder rote, nach unten gerollte Blätter; Triebe verholzen unvollständig.",
+        "Trauben können eintrocknen; Symptome oft an einzelnen Stöcken."
+      ],
+      "cause": "Phytoplasmen werden unter anderem durch die Winden-Glasflügelzikade von Wirtspflanzen übertragen.",
+      "weather": "Wirtspflanzen und Flugzeit der Vektoren bestimmen das Risiko.",
+      "confusions": [
+        "Goldgelbe Vergilbung ist am Schadbild nicht sicher abzugrenzen.",
+        "Blattrollviren und andere Vergilbungsursachen."
+      ],
+      "prevention": [
+        "Verdächtige Stöcke markieren und diagnostisch abklären lassen.",
+        "Wirtspflanzenmanagement mit Beratung abstimmen; nicht ungezielt während des Zikadenfluges mähen."
+      ],
+      "bio": "Keine kurative Spritzung gegen die Phytoplasmen; vorbeugende Standort- und Vektormaßnahmen fachlich abstimmen.",
+      "conventional": "Gleiche Grundsätze; keine automatische Insektizidempfehlung gegen die Erkrankung.",
+      "substances": [
+        "Keine heilende PSM-Anwendung"
+      ],
+      "sources": [
+        {
+          "title": "JKI · Schwarzholzkrankheit",
+          "url": "https://www.julius-kuehn.de/media/Veroeffentlichungen/Flyer/Schwarzholzkrankheit.pdf"
+        },
+        {
+          "title": "Geisenheim · Schwarzholzkrankheit",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Bois"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/schwarzholz-6.jpg",
+          "caption": "Schwarzholzkrankheit - weiße Rebsorte - Blattsymptom",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Bois",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/bois-noir/bois-noir-06.jpg",
+          "organs": [
+            "Blatt",
+            "Holz",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/schwarzholz-9.jpg",
+          "caption": "Schwarzholzkrankheit - rote Rebsorte - Blattsymptom",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Bois",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/bois-noir/bois-noir-09.jpg",
+          "organs": [
+            "Blatt",
+            "Holz",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/schwarzholz-12.jpg",
+          "caption": "Schwarzholzkrankheit - rote Rebsorte - Traubensymptom",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Bois",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/bois-noir/bois-noir-12.jpg",
+          "organs": [
+            "Traube",
+            "Holz",
+            "Tier"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/schwarzholz-1.jpg",
+          "caption": "Schwarzholzkrankheit - Glasflügelzikade - Imago",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Bois",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/bois-noir/bois-noir-01.jpg",
+          "organs": [
+            "Holz",
+            "Tier"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Keine heilende PSM-Anwendung"
+      ]
+    },
+    {
+      "id": "viruskrankheiten",
+      "name": "Viruskrankheiten",
+      "scientific": "U. a. Blattroll- und Reisigkrankheitsviren",
+      "category": "sonstige",
+      "summary": "Ungewöhnliche Blattmuster, Blattrollen und anhaltende Wuchsprobleme.",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Traube"
+      ],
+      "symptoms": [
+        "Blattrollen, mosaikartige Aufhellungen oder verformtes Laub je nach Virus.",
+        "Verrieselung, kurze Internodien oder nachlassender Ertrag möglich."
+      ],
+      "cause": "Infizierte Vermehrung und je nach Virus Vektoren wie Nematoden oder Schildläuse.",
+      "weather": "Kein einheitliches Wetterprofil; Sorte, Unterlage und Virus beeinflussen den Verlauf.",
+      "confusions": [
+        "Nährstoffmangel, Herbizidschaden und Vergilbungskrankheiten."
+      ],
+      "prevention": [
+        "Zertifiziertes gesundes Pflanzgut und geeignete Unterlagen verwenden.",
+        "Verdächtige Stöcke markieren; Laboruntersuchung veranlassen."
+      ],
+      "bio": "Keine heilende PSM-Anwendung gegen Rebviren; Sanierung nach bestätigter Diagnose planen.",
+      "conventional": "Gleiche Grundsätze; mögliche Vektoren nur gezielt und zulassungskonform regulieren.",
+      "substances": [
+        "Keine heilende PSM-Anwendung"
+      ],
+      "sources": [
+        {
+          "title": "Vitipendium · Viruskrankheiten",
+          "url": "https://www.vitipendium.de/Viruskrankheiten"
+        },
+        {
+          "title": "JKI · Pflanzengesundheit",
+          "url": "https://pflanzengesundheit.julius-kuehn.de/"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Keine heilende PSM-Anwendung"
+      ]
+    },
+    {
+      "id": "eutypiose",
+      "name": "Eutypiose",
+      "scientific": "Eutypa lata",
+      "category": "pilze",
+      "summary": "Einseitiger Kümmerwuchs und keilförmige Nekrosen im Holz.",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Holz"
+      ],
+      "symptoms": [
+        "Kurze, schwache Triebe mit kleinen, verformten Blättern.",
+        "Im Holz können scharf begrenzte, keilförmige dunkle Bereiche liegen."
+      ],
+      "cause": "Holzpilzinfektion über Wunden; Symptome zeigen sich oft erst Jahre später.",
+      "weather": "Niederschläge fördern Sporenfreisetzung; größere Schnittwunden erhöhen das Eintrittsrisiko.",
+      "confusions": [
+        "Esca, Frost und Viruskrankheiten."
+      ],
+      "prevention": [
+        "Wundarmen Schnitt anstreben und krankes Holz fachgerecht entfernen.",
+        "Sanierung bis ins gesunde Holz nur nach genauer Beurteilung."
+      ],
+      "bio": "Vorbeugenden Wundschutz bei passender Zulassung prüfen; keine heilende Blattspritzung.",
+      "conventional": "Gleiche Schnitt- und Hygienestrategie; keine pauschale kurative Mittelanwendung.",
+      "substances": [
+        "Ggf. zugelassener biologischer Wundschutz"
+      ],
+      "sources": [
+        {
+          "title": "Geisenheim · Eutypiose",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eutypa"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/eutypiose-1.jpg",
+          "caption": "Eutypa lata",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eutypa",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eutypa-lata/eutypa-lata-01.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Holz"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/eutypiose-2.jpg",
+          "caption": "Eutypa lata",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eutypa",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eutypa-lata/eutypa-lata-02.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Holz"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/eutypiose-3.jpg",
+          "caption": "Eutypa lata",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eutypa",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eutypa-lata/eutypa-lata-03.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Holz"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/eutypiose-4.jpg",
+          "caption": "Eutypa lata",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Eutypa",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/eutypa-lata/eutypa-lata-04.jpg",
+          "organs": [
+            "Blatt",
+            "Trieb",
+            "Holz"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Ggf. zugelassener biologischer Wundschutz"
+      ]
+    },
+    {
+      "id": "mauke",
+      "name": "Mauke",
+      "scientific": "Allorhizobium vitis (syn. Agrobacterium vitis)",
+      "category": "sonstige",
+      "summary": "Tumorartige Wucherungen an Stamm und Veredlungsstelle.",
+      "organs": [
+        "Holz",
+        "Wurzel"
+      ],
+      "symptoms": [
+        "Unregelmäßige Wucherungen besonders an Verletzungsstellen.",
+        "Gestörter Saftfluss, schwacher Wuchs oder Absterben möglich."
+      ],
+      "cause": "Bakterielle Infektion; infiziertes Pflanzgut und Wunden spielen eine Rolle.",
+      "weather": "Frost- und mechanische Verletzungen begünstigen sichtbare Wucherungen.",
+      "confusions": [
+        "Kallusbildung und andere Stammverletzungen."
+      ],
+      "prevention": [
+        "Gesundes Pflanzgut einsetzen und Verletzungen vermeiden.",
+        "Auffällige Stöcke markieren und fachlich untersuchen lassen."
+      ],
+      "bio": "Keine heilende Standardspritzung; Hygienemaßnahmen und Sanierung abstimmen.",
+      "conventional": "Gleiche Vorgehensweise; keine pauschale Antibiotika- oder Bakterizidempfehlung.",
+      "substances": [
+        "Keine heilende PSM-Anwendung"
+      ],
+      "sources": [
+        {
+          "title": "Geisenheim · Mauke",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Agrobacterium"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/mauke-1.jpg",
+          "caption": "Agrobacterium vitis",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Agrobacterium",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/agrobacterium-vitis/agrobacterium-vitis-01.jpg",
+          "organs": [
+            "Holz",
+            "Wurzel"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/mauke-2.jpg",
+          "caption": "Agrobacterium vitis",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Agrobacterium",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/agrobacterium-vitis/agrobacterium-vitis-02.jpg",
+          "organs": [
+            "Holz",
+            "Wurzel"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/mauke-3.jpg",
+          "caption": "Agrobacterium vitis",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Agrobacterium",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/agrobacterium-vitis/agrobacterium-vitis-03.jpg",
+          "organs": [
+            "Holz",
+            "Wurzel"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Keine heilende PSM-Anwendung"
+      ]
+    },
+    {
+      "id": "gruenfaeule",
+      "name": "Grünfäule",
+      "scientific": "Penicillium-Arten",
+      "category": "pilze",
+      "summary": "Grünblauer Schimmel auf verletzten oder faulenden Beeren.",
+      "organs": [
+        "Traube"
+      ],
+      "symptoms": [
+        "Grünlicher bis bläulicher Sporenbelag.",
+        "Häufig gemeinsam mit anderen Fäulen an verletzten Beeren."
+      ],
+      "cause": "Wund- und Schwächeparasiten besiedeln beschädigtes Fruchtgewebe.",
+      "weather": "Feuchte Bedingungen und Verletzungen fördern die Entwicklung.",
+      "confusions": [
+        "Botrytis mit grauem Sporenrasen; Essigfäule mit Essiggeruch."
+      ],
+      "prevention": [
+        "Verletzungen und vorausgehenden Schädlingsbefall minimieren.",
+        "Bei der Lese befallene Partien konsequent aussortieren."
+      ],
+      "bio": "Hygiene und gesundes Lesegut; keine ungeprüfte Spritzempfehlung.",
+      "conventional": "Gleiche Grundlage; eine Botrytis-Indikation ist nicht automatisch eine Grünfäule-Zulassung.",
+      "substances": [
+        "Keine pauschale Mittelzuordnung"
+      ],
+      "sources": [
+        {
+          "title": "Geisenheim · Grünfäule",
+          "url": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Penicillium"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [
+        {
+          "src": "assets/photos/gruenfaeule-1.jpg",
+          "caption": "Grünfäule - Penicillium expansum",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Penicillium",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/penicillium-expansum/penicillium-expansum-01.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/gruenfaeule-2.jpg",
+          "caption": "Grünfäule - Penicillium expansum",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Penicillium",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/penicillium-expansum/penicillium-expansum-02.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        },
+        {
+          "src": "assets/photos/gruenfaeule-3.jpg",
+          "caption": "Grünfäule - Penicillium expansum",
+          "credit": "Hochschule Geisenheim University",
+          "license": "Kostenlose Verwendung laut Quellenseite; Urheberhinweis",
+          "licenseUrl": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau",
+          "source": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/schadbilder.php?Auswahl=Penicillium",
+          "original": "https://rebschutz.hs-geisenheim.de/schadbilder-wein/penicillium-expansum/penicillium-expansum-03.jpg",
+          "organs": [
+            "Traube"
+          ],
+          "modified": true
+        }
+      ],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Keine pauschale Mittelzuordnung"
+      ]
+    },
+    {
+      "id": "goldgelbe-vergilbung",
+      "name": "Goldgelbe Vergilbung · Verdachtsfall",
+      "scientific": "Grapevine flavescence dorée phytoplasma",
+      "category": "sonstige",
+      "summary": "Vergilbungssymptome unbedingt fachlich abklären lassen.",
+      "organs": [
+        "Blatt",
+        "Trieb",
+        "Traube"
+      ],
+      "symptoms": [
+        "Nach unten gerollte gelbe oder rote Blätter.",
+        "Schlecht verholzte Triebe und eintrocknende Gescheine oder Trauben möglich."
+      ],
+      "cause": "Ein Quarantäneschaderreger; die Amerikanische Rebzikade Scaphoideus titanus kann ihn verbreiten.",
+      "weather": "Vektorvorkommen und infiziertes Material sind entscheidend, nicht ein einzelnes Wettermerkmal.",
+      "confusions": [
+        "Schwarzholzkrankheit ist am Foto nicht sicher unterscheidbar."
+      ],
+      "prevention": [
+        "Bei Verdacht den amtlichen Pflanzenschutzdienst kontaktieren.",
+        "Kein verdächtiges Vermehrungsmaterial weitergeben."
+      ],
+      "bio": "Amtliche Diagnose und behördliche Maßnahmen haben Vorrang; keine eigene Heilbehandlung.",
+      "conventional": "Amtliche Vorgaben für Befallsherde, Pflanzgut und Vektoren beachten.",
+      "substances": [
+        "Nur behördlich abgestimmte Maßnahmen"
+      ],
+      "sources": [
+        {
+          "title": "JKI · Notfallplan Goldgelbe Vergilbung 2026",
+          "url": "https://pflanzengesundheit.julius-kuehn.de/dokumente/upload/2026_ll_grapevine-flavescence.pdf"
+        },
+        {
+          "title": "Hochschule Geisenheim · Schadbilder",
+          "url": "https://www.hs-geisenheim.de/praxis/praxiswissen/wetter/rebschutz/schadbilder-weinbau"
+        },
+        {
+          "title": "DLR · Integrierter Weinbau 2026",
+          "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/%28DLR_RLP_Aktu_ALL_XP_RD%29/313FD2AD85240E25C1258DE1002B1DDF/%24FILE/Integrierter%20Weinbau%20Rahmenempfehlungen%202026.pdf"
+        }
+      ],
+      "images": [],
+      "reviewed": "2026-10-25",
+      "bioSubstances": [
+        "Nur behördlich abgestimmte Maßnahmen"
+      ]
+    }
+  ]
+}
