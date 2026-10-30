@@ -36,3 +36,16 @@ body[data-view="home"] .home-links .button{min-width:0;width:100%;flex-basis:100
 .symptom-quick{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:12px}.symptom-quick>span{font-size:.85rem;opacity:.8}.symptom-chip{border:1px solid #b6b9a6;border-radius:18px;background:#f7f5e9;color:#30452f;padding:7px 12px;cursor:pointer;font:inherit;font-size:.84rem}.symptom-chip:hover,.symptom-chip:focus-visible{background:#e6eddd;outline-offset:2px}
 .gallery .photo figcaption{font-size:.79rem;line-height:1.35;padding:9px 11px}.gallery .photo figcaption strong{display:block;font-size:.82rem;line-height:1.4;margin-bottom:4px}.gallery .photo figcaption .photo-credits{display:block;font-size:.71rem;opacity:.78;margin-top:5px}.gallery .photo figcaption a{overflow-wrap:anywhere}
 @media(max-width:650px){.symptom-quick{gap:6px}.symptom-chip{padding:6px 9px}}
+
+/* Update: Krankheitsprofile und kompakte Bildnachweise */
+.profile-quickcheck{margin:18px 0 24px;padding:18px 20px;background:rgba(251,249,236,.95);border:1px solid rgba(54,95,62,.28);border-left:4px solid #416d4a;border-radius:13px;color:#263b28}
+.profile-quickcheck h2{margin:5px 0 10px;font-size:clamp(1.15rem,2vw,1.55rem)}
+.profile-quickcheck ul{margin:8px 0 12px;padding-left:21px;line-height:1.5}
+.profile-quickcheck li+li{margin-top:5px}
+.profile-caution{margin:12px 0 0}
+.profile-disclaimer{font-size:.85rem;opacity:.8;margin:10px 0 0}
+.gallery .photo figcaption{padding:9px 12px 11px;line-height:1.35}
+.gallery .photo figcaption strong{display:block;font-size:.89rem;line-height:1.3;margin-bottom:5px}
+.gallery .photo figcaption .photo-credits{display:block;font-size:.76rem;line-height:1.35;opacity:.84}
+.gallery .photo figcaption a{overflow-wrap:anywhere}
+@media(max-width:600px){.profile-quickcheck{padding:14px 15px}.gallery .photo figcaption{padding:8px 10px}}
