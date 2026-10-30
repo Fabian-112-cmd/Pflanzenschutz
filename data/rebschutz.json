@@ -1,16 +1,23 @@
-"sources": [
-  {
-    "id": "dlr",
-    "name": "DLR Rheinland-Pfalz / Rebschutz",
-    "ok": false,
-    "lastSuccessAt": null,
-    "home": "https://www.dlr.rlp.de/"
-  },
-  {
-    "id": "bvl",
-    "name": "BVL Pflanzenschutzmittel",
-    "ok": false,
-    "lastSuccessAt": null,
-    "home": "https://www.bvl.bund.de/"
-  }
-]
+
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-30T14:30:00Z",
+  "coverage": "Automatische Quellenprüfung noch nicht abgeschlossen. Originalquellen zusätzlich prüfen.",
+  "sources": [
+    {
+      "id": "dlr",
+      "name": "DLR Rheinland-Pfalz / Rebschutz",
+      "ok": false,
+      "lastSuccessAt": null,
+      "home": "https://www.dlr.rlp.de/"
+    },
+    {
+      "id": "bvl",
+      "name": "BVL Pflanzenschutzmittel",
+      "ok": false,
+      "lastSuccessAt": null,
+      "home": "https://www.bvl.bund.de/"
+    }
+  ],
+  "items": []
+}
