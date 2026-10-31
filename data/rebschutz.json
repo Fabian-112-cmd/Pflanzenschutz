@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:28:28.214999+00:00",
+  "generatedAt": "2026-10-31T13:38:20.258679+00:00",
   "coverage": "Öffentlich verfügbare DLR-/PS-Info-Meldungen und BVL-Fachmeldungen. Kein Zugriff auf kostenpflichtige Informationsdienste; keine Vollständigkeitsgarantie.",
   "sources": [
     {
       "id": "dlr",
       "name": "DLR Rheinland-Pfalz · Weinbau",
       "home": "https://www.dlr-rheinpfalz.rlp.de/",
-      "checkedAt": "2026-10-30T17:28:28.214999+00:00",
+      "checkedAt": "2026-10-31T13:38:20.258679+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-10-30T17:28:28.214999+00:00",
+      "lastSuccessAt": "2026-10-31T13:38:20.258679+00:00",
       "error": null
     },
     {
       "id": "dlr-bio",
       "name": "DLR Rheinland-Pfalz · Ökoweinbau",
       "home": "https://www.oekolandbau.rlp.de/",
-      "checkedAt": "2026-10-30T17:28:28.214999+00:00",
+      "checkedAt": "2026-10-31T13:38:20.258679+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-10-30T17:28:28.214999+00:00",
+      "lastSuccessAt": "2026-10-31T13:38:20.258679+00:00",
       "error": null
     },
     {
       "id": "psinfo",
       "name": "PS Info Weinbau · DLR Rheinpfalz",
       "home": "https://weinbau.pflanzenschutz-information.de/",
-      "checkedAt": "2026-10-30T17:28:28.214999+00:00",
+      "checkedAt": "2026-10-31T13:38:20.258679+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-10-30T17:28:28.214999+00:00",
+      "lastSuccessAt": "2026-10-31T13:38:20.258679+00:00",
       "error": null
     },
     {
       "id": "bvl",
       "name": "BVL · Fachmeldungen",
       "home": "https://www.bvl.bund.de/DE/Arbeitsbereiche/04_Pflanzenschutzmittel/psm_node.html",
-      "checkedAt": "2026-10-30T17:28:28.214999+00:00",
+      "checkedAt": "2026-10-31T13:38:20.258679+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-10-30T17:28:28.214999+00:00",
+      "lastSuccessAt": "2026-10-31T13:38:20.258679+00:00",
       "error": null
     }
   ],
