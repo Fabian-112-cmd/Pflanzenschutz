@@ -1,46 +1,63 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T14:16:32.293414+00:00",
+  "generatedAt": "2026-11-09T17:27:13.072415+00:00",
   "coverage": "Öffentlich verfügbare DLR-/PS-Info-Meldungen und BVL-Fachmeldungen. Kein Zugriff auf kostenpflichtige Informationsdienste; keine Vollständigkeitsgarantie.",
   "sources": [
     {
       "id": "dlr",
       "name": "DLR Rheinland-Pfalz · Weinbau",
       "home": "https://www.dlr-rheinpfalz.rlp.de/",
-      "checkedAt": "2026-11-08T14:16:32.293414+00:00",
+      "checkedAt": "2026-11-09T17:27:13.072415+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-11-08T14:16:32.293414+00:00",
+      "lastSuccessAt": "2026-11-09T17:27:13.072415+00:00",
       "error": null
     },
     {
       "id": "dlr-bio",
       "name": "DLR Rheinland-Pfalz · Ökoweinbau",
       "home": "https://www.oekolandbau.rlp.de/",
-      "checkedAt": "2026-11-08T14:16:32.293414+00:00",
+      "checkedAt": "2026-11-09T17:27:13.072415+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-11-08T14:16:32.293414+00:00",
+      "lastSuccessAt": "2026-11-09T17:27:13.072415+00:00",
       "error": null
     },
     {
       "id": "psinfo",
       "name": "PS Info Weinbau · DLR Rheinpfalz",
       "home": "https://weinbau.pflanzenschutz-information.de/",
-      "checkedAt": "2026-11-08T14:16:32.293414+00:00",
+      "checkedAt": "2026-11-09T17:27:13.072415+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-11-08T14:16:32.293414+00:00",
+      "lastSuccessAt": "2026-11-09T17:27:13.072415+00:00",
       "error": null
     },
     {
       "id": "bvl",
       "name": "BVL · Fachmeldungen",
       "home": "https://www.bvl.bund.de/DE/Arbeitsbereiche/04_Pflanzenschutzmittel/psm_node.html",
-      "checkedAt": "2026-11-08T14:16:32.293414+00:00",
+      "checkedAt": "2026-11-09T17:27:13.072415+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-11-08T14:16:32.293414+00:00",
+      "lastSuccessAt": "2026-11-09T17:27:13.072415+00:00",
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "91004d901d81de06577b71a2",
+      "sourceId": "psinfo",
+      "source": "PS Info Weinbau · DLR Rheinpfalz",
+      "title": "SWITCH: Zulassung nach Art. 53 in Weinrebe zur Rebpflanzguterzeugung (Unterlagen und Edelreishölzer, bewurzeltes Rebenpflanzgut) gegen Botrytis cinerea und holzzerstörende Pilze (16.11.2026 bis zum 15.03.2027)",
+      "publishedAt": "2026-11-09",
+      "url": "https://www.pflanzenschutz-information.de/ticker?nr=3287",
+      "modes": [
+        "bio",
+        "konventionell"
+      ],
+      "category": "Zulassung & Fristen",
+      "impact": "Vor dem nächsten Einsatz die betroffenen Weinbau-Anwendungen, Fristen und Auflagen in der Originalmeldung prüfen.",
+      "bioStatus": "BIO-Anwendbarkeit gesondert anhand der aktuellen Öko-Vorgaben prüfen.",
+      "modeNote": "Allgemeine Fachinformation; die Zuordnung ist keine Zulassungs- oder BIO-Freigabe.",
+      "firstSeenAt": "2026-11-09T17:27:13.072415+00:00"
+    },
     {
       "id": "045f99210318ea5e8bd37ea5",
       "sourceId": "psinfo",
