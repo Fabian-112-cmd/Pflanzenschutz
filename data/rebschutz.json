@@ -1,46 +1,63 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T14:07:44.018618+00:00",
+  "generatedAt": "2026-11-15T14:44:41.453421+00:00",
   "coverage": "Öffentlich verfügbare DLR-/PS-Info-Meldungen und BVL-Fachmeldungen. Kein Zugriff auf kostenpflichtige Informationsdienste; keine Vollständigkeitsgarantie.",
   "sources": [
     {
       "id": "dlr",
       "name": "DLR Rheinland-Pfalz · Weinbau",
       "home": "https://www.dlr-rheinpfalz.rlp.de/",
-      "checkedAt": "2026-11-14T14:07:44.018618+00:00",
+      "checkedAt": "2026-11-15T14:44:41.453421+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-11-14T14:07:44.018618+00:00",
+      "lastSuccessAt": "2026-11-15T14:44:41.453421+00:00",
       "error": null
     },
     {
       "id": "dlr-bio",
       "name": "DLR Rheinland-Pfalz · Ökoweinbau",
       "home": "https://www.oekolandbau.rlp.de/",
-      "checkedAt": "2026-11-14T14:07:44.018618+00:00",
+      "checkedAt": "2026-11-15T14:44:41.453421+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-11-14T14:07:44.018618+00:00",
+      "lastSuccessAt": "2026-11-15T14:44:41.453421+00:00",
       "error": null
     },
     {
       "id": "psinfo",
       "name": "PS Info Weinbau · DLR Rheinpfalz",
       "home": "https://weinbau.pflanzenschutz-information.de/",
-      "checkedAt": "2026-11-14T14:07:44.018618+00:00",
+      "checkedAt": "2026-11-15T14:44:41.453421+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-11-14T14:07:44.018618+00:00",
+      "lastSuccessAt": "2026-11-15T14:44:41.453421+00:00",
       "error": null
     },
     {
       "id": "bvl",
       "name": "BVL · Fachmeldungen",
       "home": "https://www.bvl.bund.de/DE/Arbeitsbereiche/04_Pflanzenschutzmittel/psm_node.html",
-      "checkedAt": "2026-11-14T14:07:44.018618+00:00",
+      "checkedAt": "2026-11-15T14:44:41.453421+00:00",
       "ok": true,
-      "lastSuccessAt": "2026-11-14T14:07:44.018618+00:00",
+      "lastSuccessAt": "2026-11-15T14:44:41.453421+00:00",
       "error": null
     }
   ],
   "items": [
+    {
+      "id": "2ee8c3fa7ede01c3f1a8fbf5",
+      "sourceId": "dlr",
+      "source": "DLR Rheinland-Pfalz · Weinbau",
+      "title": "2026-32 Rebschutz- und Weinbauinformationsdienst Pfalz 12.11.2026",
+      "publishedAt": "2026-11-12",
+      "url": "https://www.dlr.rlp.de/Internet/global/themen.nsf/EB865D599376DB81C12586C700399C1E/3290C0DE4591CDC6C1258EAD004E123F",
+      "modes": [
+        "bio",
+        "konventionell"
+      ],
+      "category": "Rebschutz & Schadbilder",
+      "impact": "Die neue Fachmeldung mit Entwicklungsstand und Befall im eigenen Wingert abgleichen; konkrete Maßnahmen der Originalquelle entnehmen.",
+      "bioStatus": "BIO-Anwendbarkeit gesondert anhand der aktuellen Öko-Vorgaben prüfen.",
+      "modeNote": "Allgemeine Fachinformation; die Zuordnung ist keine Zulassungs- oder BIO-Freigabe.",
+      "firstSeenAt": "2026-11-15T14:44:41.453421+00:00"
+    },
     {
       "id": "91004d901d81de06577b71a2",
       "sourceId": "psinfo",
